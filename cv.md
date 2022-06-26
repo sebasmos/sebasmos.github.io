@@ -15,8 +15,8 @@ June 2022
 
 ### Proffesional experience
 
-- 2022-present. **Research fellow**. Visual computing group (VCG) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
-- 2022-present. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). Developed project for logo detection with YOLOv5, attribution and verification based on Contrastive Language-image Pretraining Language (CLIP). Paris (France)
+- 2022-present. **Research fellow** at Harvard. Current member of the Visual computing group (VCG) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
+- 2022-present. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). Developed project for logo detection with Object detectors, attribution and verification based on Contrastive text-image Training and transformers. Paris (France)
 - 2020-2021. **Computer vision and Artificial Intelligence Engineer**. [AI India Innovation center](https://aiindia.ai/) In charge of the project "LAND USE LAND COVER CLASSIFICATION USING ADVANCED ML AND DL TECHNIQUES FOR LARGER STUDY AREA using Keras / Tensorflow frameworks". The main tasks included accuracy assessment, Preparation of Datasets, Training Models, Testing, using Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
 - 2021\. **Web/mobile developer for Ozone generator**. COVID-19 Project Award for US$5200 for the creation of a Ozone generation, a web and mobile application, IEEE SIGHTS sights grant. Colombia.
 - 2020\. **Web/mobile developer for mechanical ventitor** Development of a mobile application for a mechanical ventilator project, awarded with a 3950 USD stipend. IEEE SIGHTS sights grant, Colombia
@@ -60,7 +60,8 @@ secondary school (2008-2013).
 #### Dissertation
 
 - *Logo verification and characterization with machine learning for document analysis*. EcoVadis, Paris (France)
-- *Characterization of noise-aware heart arrythnmia for Bradicardia and tachicardia*. University of Cauca, Popayan (Colombia) 
+- *Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements
+for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts*. University of Cauca, Popayan (Colombia) 
 
 #### Research Interests
 
@@ -100,6 +101,6 @@ prototype system for the visually impaired. See our project here.
 
 ### Computer skills
 
-- Front/back-end experience with web/mobile development (React, Flutter, Ionic) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP) </li>
+- Front/back-end experience with web/mobile development (React, Flutter, Ionic) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP)
 - **Website**: [https://sebasmos.github.io/](https://sebasmos.github.io/)
 - **Startup**: [https://sueñoparaiso.com/](https://sueñoparaiso.com/) 
