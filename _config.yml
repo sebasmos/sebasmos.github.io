@@ -35,12 +35,12 @@ email: scajasordonez [ad] fas.harvard.edu.co
 
 
 authors:
-    patrickburns:
-        name: Patrick J. Burns
-        bio: Digital Classicist
+    sebasmos:
+        name: Sebastian Cajas
+        bio: An astrophilic homosapiens
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: diyclassics
+        
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
