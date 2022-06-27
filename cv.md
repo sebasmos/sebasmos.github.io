@@ -15,7 +15,7 @@ June 2022
 
 ### Proffesional experience
 
-- 2022-present. **Research fellow** at Harvard. Current research fellow in the Visual computing group (VCG) and Laboratory of Systems Pharmacology (LSP) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
+- 2022-present. **Computer vision research fellow** at Harvard. Current Research Fellow in the Visual computing group (VCG) and Laboratory of Systems Pharmacology (LSP) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
 - 2022-present. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). Developed project for logo detection with Object detectors, attribution and verification based on Contrastive text-image Training and transformers. Paris, France.
 - 2020-2021. **Computer vision and Artificial Intelligence Engineer** in [AI India Innovation center](https://aiindia.ai/). Developped the project "Land Use Land Cover Classification using advanced ML and DL techniques for Larger Study Area". The main tasks included accuracy assessment, Preparation of Datasets, Training Models, Testing, using Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
 - 2021\. **Web/mobile developer for Ozone generator**. COVID-19 Project Award for US$5200 for the creation of a Ozone generation, a web and mobile application, IEEE SIGHTS sights grant. Colombia.
