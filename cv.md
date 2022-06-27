@@ -15,12 +15,12 @@ June 2022
 
 ### Proffesional experience
 
-- 2022-present. **Research fellow** at Harvard. Current member of the Visual computing group (VCG) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
-- 2022-present. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). Developed project for logo detection with Object detectors, attribution and verification based on Contrastive text-image Training and transformers. Paris (France)
-- 2020-2021. **Computer vision and Artificial Intelligence Engineer**. [AI India Innovation center](https://aiindia.ai/) In charge of the project "LAND USE LAND COVER CLASSIFICATION USING ADVANCED ML AND DL TECHNIQUES FOR LARGER STUDY AREA using Keras / Tensorflow frameworks". The main tasks included accuracy assessment, Preparation of Datasets, Training Models, Testing, using Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
+- 2022-present. **Research fellow** at Harvard. Current research fellow in the Visual computing group (VCG) and Laboratory of Systems Pharmacology (LSP) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
+- 2022-present. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). Developed project for logo detection with Object detectors, attribution and verification based on Contrastive text-image Training and transformers. Paris, France.
+- 2020-2021. **Computer vision and Artificial Intelligence Engineer** in [AI India Innovation center](https://aiindia.ai/). Developped the project "Land Use Land Cover Classification using advanced ML and DL techniques for Larger Study Area". The main tasks included accuracy assessment, Preparation of Datasets, Training Models, Testing, using Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
 - 2021\. **Web/mobile developer for Ozone generator**. COVID-19 Project Award for US$5200 for the creation of a Ozone generation, a web and mobile application, IEEE SIGHTS sights grant. Colombia.
-- 2020\. **Web/mobile developer for mechanical ventitor** Development of a mobile application for a mechanical ventilator project, awarded with a 3950 USD stipend. IEEE SIGHTS sights grant, Colombia
-2019\. **Electronic and Physics teacher**. Teach and supervise Air-based flight machines, solar dials, lamps, flash-lights, and programable robots to 400 teenagers aged between 4 and 16 years old in the United States of America. Camp Poyntelle, Pensylvannia, (U.S.A).
+- 2020\. **Web/mobile developer for mechanical ventitor** Development of a mobile application for a mechanical ventilator project, awarded with a 3950 USD stipend. IEEE SIGHTS sights grant, Colombia.
+- 2019\. **Electronic and Physics teacher**. Teach and supervise Air-based flight machines, solar dials, lamps, flash-lights, and programable robots to 400 teenagers aged between 4 and 16 years old in the United States of America. Camp Poyntelle, Pensylvannia, (U.S.A).
 - 2016-2018. **IT network technician**. University of Cauca, Colombia. In charge of documenting all systems and network adjustments, as well as ensuring the general maintenance and hardware/software installation of telecommunication and network devices, at the different faculties of the University of Cauca. Colombia
 - 2018\. **Computer science teacher**. Developped Web Development and mobile applications as part of the general literacy curriculum program for Refugees, Social Hackers Academy, Athens (Greece)
 - 2018\. **Front-end developer**. Developped official web page designer at a psychiatric centre in Greece. Althaia psychiatric centre, Athens (Greece).
@@ -29,8 +29,8 @@ and logistics. Astronomical Observatory Francisco José de Caldas, Colombia.
 
 ### Education
 
-- 2020-2022\. **MsC. Joint Master on Image Processing and Computer vision** ([**IPCV**](http://ipcv.eu/)). The University of Bordeaux, the Autonomous University of Madrid, Peter's catholic University of Pazmany. Full scholarship from Erasmus Mundus Joint Master (EMJM). **Location**: Spain - France -Hungary, **Scoring**: 80%.
-- 2020\. **Data Scientist**. [Correlation One. DS4A/Colombia 4.0](https://www.correlation-one.com/) Our program offers a unique opportunity to learn data science from the world’s foremost experts to apply AI to real business initiatives at leading technology companies. We developped a prescriptive application  with machine learning methods, AWS, and SQL technologies. Omnivida - MiniTIC
+- 2020-2022\. **MsC. Joint Master on Image Processing and Computer vision** ([**IPCV**](http://ipcv.eu/)). Full scholarship from Erasmus Mundus Joint Master (EMJM). The University of Bordeaux, the Autonomous University of Madrid, Peter's catholic University of Pazmany. . **Location**: Spain - France -Hungary, **Scoring**: 80%.
+- 2020\. **Data Scientist** - [Correlation One. DS4A/Colombia 4.0](https://www.correlation-one.com/). Data Science program organized by Colombian governement and Correlation One to learn from the world’s foremost experts to apply AI to real business initiatives at leading technology companies. We developped a prescriptive application  with machine learning methods, AWS, and SQL technologies. Omnivida - MiniTIC
 - 2014-2019\. **B.A. Electronics and Telecommunications engineering**. University of Cauca.  **RANKING**: 3° Position. **Scoring**: 84.488% **GPA**: 3.56
 
 ### Grants, Awards and Honors
@@ -59,9 +59,9 @@ secondary school (2008-2013).
 
 #### Dissertation
 
-- *Logo verification and characterization with machine learning for document analysis*. EcoVadis, Paris (France)
+- *Logo verification and characterization with machine learning for document analysis*. EcoVadis - Paris, France.
 - *Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements
-for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts*. University of Cauca, Popayan (Colombia) 
+for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts*. University of Cauca - Popayan, Colombia. 
 
 #### Research Interests
 
