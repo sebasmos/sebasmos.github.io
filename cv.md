@@ -11,19 +11,19 @@ scajasordonez [ad] fas.harvard.edu.co
 
 {:.cv-info}
 **Curriculum Vitae**  
-June 2022
+July 2022
 
-### Proffesional experience
+### Work experience
 
-- 2022-present. **Computer vision research fellow** at Harvard. Current Research Fellow in the Visual computing group (VCG) and Laboratory of Systems Pharmacology (LSP) under the supervision of Hanspeter Pfister and Siyu Huang, Harvard University. 
-- 2022-present. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). Developed project for logo detection with Object detectors, attribution and verification based on Contrastive text-image Training and transformers. Paris, France.
-- 2020-2021. **Computer vision and Artificial Intelligence Engineer** in [AI India Innovation center](https://aiindia.ai/). Developped the project "Land Use Land Cover Classification using advanced ML and DL techniques for Larger Study Area". The main tasks included accuracy assessment, Preparation of Datasets, Training Models, Testing, using Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
-- 2021\. **Web/mobile developer for Ozone generator**. COVID-19 Project Award for US$5200 for the creation of a Ozone generation, a web and mobile application, IEEE SIGHTS sights grant. Colombia.
-- 2020\. **Web/mobile developer for mechanical ventitor** Development of a mobile application for a mechanical ventilator project, awarded with a 3950 USD stipend. IEEE SIGHTS sights grant, Colombia.
-- 2019\. **Electronic and Physics teacher**. Teach and supervise Air-based flight machines, solar dials, lamps, flash-lights, and programable robots to 400 teenagers aged between 4 and 16 years old in the United States of America. Camp Poyntelle, Pensylvannia, (U.S.A).
+- 2022-present. **Computer Vision Research Fellow** at VCG Harvard. I work under the supervision of Hanspeter Pfister, Artem Novikov, Siyu Huang and Edward Novikov on cancer cell discovery based on instance segmentation algorithms and unsupervised techniques: from redesigning Neural Network backbones and examining unbiased pixel-level features via Variational Autoencoders to extract biological meaningful features over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. *Harvard University*.
+- 2022\. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). I developed a logo detection and verification framework based on the current state-of-the-art Object detectors, attribution and verification based on Contrastive text-image training, transfer-learning using transformers and image processing approaches. Paris, France.
+- 2020-2021. **Computer vision and Artificial Intelligence Engineer** in [AI India Innovation centre](https://aiindia.ai/). Developed the project "Land Use Land Cover Classification using advanced ML and DL techniques for Larger Study Area" project. The main tasks included accuracy assessment, creation of satellite imagery dataset from scratch, Training Models, Testing, Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
+- 2021\. **Web/mobile developer for Ozone generator**. COVID-19 Project Award for US$5200 for the creation of an Ozone generation, a web and mobile application, IEEE SIGHTS sights grant. Colombia.
+- 2020\. **Web/mobile developer for mechanical ventilator** Development of a mobile application for a mechanical ventilator project, awarded with a 3950 USD stipend. IEEE SIGHTS sights grant, Colombia.
+- 2019\. **Electronic and Physics teacher**. Teach and supervise Air-based flight machines, solar dials, lamps, flashlights, and programable robots to 400 teenagers aged between 4 and 16 years old in the United States of America. Camp Poyntelle, Pennsylvania, (U.S.A).
 - 2016-2018. **IT network technician**. University of Cauca, Colombia. In charge of documenting all systems and network adjustments, as well as ensuring the general maintenance and hardware/software installation of telecommunication and network devices, at the different faculties of the University of Cauca. Colombia
-- 2018\. **Computer science teacher**. Developped Web Development and mobile applications as part of the general literacy curriculum program for Refugees, Social Hackers Academy, Athens (Greece)
-- 2018\. **Front-end developer**. Developped official web page designer at a psychiatric centre in Greece. Althaia psychiatric centre, Athens (Greece).
+- 2018\. **Computer science teacher**. Developed Web Development and mobile applications as part of the general literacy curriculum program for Refugees, Social Hackers Academy, Athens (Greece)
+- 2018\. **Front-end developer**. Developed official web page designer at a psychiatric centre in Greece. Althaia psychiatric centre, Athens (Greece).
 - 2013-present. **General director & CEO**. Astronomy Interpreter, public speaker, as well as in charge of the financial resources
 and logistics. Astronomical Observatory Francisco José de Caldas, Colombia.
 
@@ -95,12 +95,18 @@ prototype system for the visually impaired. See our project here.
 
 ### Professional Organizations
 
-- Aerospace & Electronic Systems Society founder at University of Cauca(AESS-Unicauca)
+- Aerospace & Electronic Systems Society founder & Advisor at University of Cauca(AESS-Unicauca)
 - Red de Astronomia de Colombia - miembro (RAC)
 
 
 ### Computer skills
 
 - Front/back-end experience with web/mobile development (React, Flutter, Ionic) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP)
+
+- C++, c, python, SQL, typescript, shell.
+- Focused on architecturing pipelines and real-time inference run-times (PyTorch, TensorRT, Python, C++) on ML DevOps projects, in unsupervised or Self-supervised Learning applying Deep Learning to 3D Computer Vision problems.
+- Docker. I have experice with AWS, GCP, FASRC Harvard cluster, E2E, Microsoft Azure and private servers (University of Bordeaux (UbX), Autonomous University of Madrid (UAM)).
+
+
 - **Website**: [https://sebasmos.github.io/](https://sebasmos.github.io/)
 - **Startup**: [https://sueñoparaiso.com/](https://sueñoparaiso.com/) 
