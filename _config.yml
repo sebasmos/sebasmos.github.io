@@ -1,6 +1,6 @@
 # main text of home
 name: Sebastian Cajas
-bio: Computer Vision Research Fellow at VCG Harvard | Machine learning intern at EcoVadis | MsC in Computer Vision 
+bio: AI Scientist at Ireland Center of Applied AI | Computer Vision Research Fellow at VCG Harvard | MsC in Computer Vision 
 
 # twitter summary info
 description: Academic portfolio
@@ -31,7 +31,7 @@ disqus: false
 #facebook: myfacebook
 linkedin: sebasmos777
 github: sebasmos
-email: scajasordonez [ad] fas.harvard.edu.co
+email: scajasordonez [ad] gmail.com
 
 
 #authors:
@@ -52,7 +52,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+#projects: true
 cv: true
 #papers: true
 #writing: true
