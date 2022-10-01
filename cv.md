@@ -12,7 +12,7 @@ scajasordonez [ad] gmail.com
 {:.cv-info}
 **Curriculum Vitae**  
 October 2022
-
+<hr />
 ### Work experience
 
 - *Sep 2022-present*. **AI Scientist** at [CeADAR](https://ceadar.ie/our-team/). 
@@ -30,13 +30,13 @@ October 2022
 - *2018*. **Front-end developer**. Developed official web page designer at a psychiatric centre in Greece. Althaia psychiatric centre, Athens (Greece).
 - *Oct 2013-present*. **General director & CEO**. Astronomy Interpreter, public speaker, as well as in charge of the financial resources
 and logistics. Astronomical Observatory Francisco José de Caldas, Colombia.
-
+<hr />
 ### Education
 
 - *2020-2022*. **MsC. Joint Master on Image Processing and Computer vision** ([**IPCV**](http://ipcv.eu/)). Full scholarship from Erasmus Mundus Joint Master (EMJM). The University of Bordeaux, the Autonomous University of Madrid, Peter's catholic University of Pazmany. . **Location**: Spain - France -Hungary, **Scoring**: 80%.
 - *2020*. **Data Scientist** - [Correlation One. DS4A/Colombia 4.0](https://www.correlation-one.com/). Data Science program organized by Colombian governement and Correlation One to learn from the world’s foremost experts to apply AI to real business initiatives at leading technology companies. We developped a prescriptive application  with machine learning methods, AWS, and SQL technologies. Omnivida - MiniTIC
 - *2014-2019*. **B.A. Electronics and Telecommunications engineering**. University of Cauca.  **RANKING**: 3° Position. **Scoring**: 84.488% **GPA**: 3.56
-
+<hr />
 ### Grants, Awards and Honors
 
 - *2021*. OpenCV 2021 competition phase 1 winner.  Finalist in the OpenCV AI Competition 2021 sponsored by Microsoft Azure and Intel, the World's biggest spatial AI competition. My team’s proposal was chosen from over 1400 submissions around the world, earning 6 OAK-D devices.
@@ -61,17 +61,17 @@ department, Bogotá, Colombia S.A.S.
 - *2008-2013*. Merit Scholarship awarded by Technical Comfacauca
 secondary school-
 
-
+<hr />
 #### Dissertation
 
 - *Logo verification and characterization with machine learning for document analysis*. EcoVadis - Paris, France.
 - *Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements
 for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts*. University of Cauca - Popayan, Colombia. 
-
+<hr />
 #### Research Interests
 
 - Reinforcement Learning, Data Science, Computer Vision, machine learning models, and Space Sciences (Aerospace, radioastronomy, rocketry, satellite engineering
-
+<hr />
 ### Publications
 
 
@@ -80,7 +80,7 @@ for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection usin
 International Symposium on Medical Information Processing and Analysis, 1133014 (3 January 2020). [https://doi.org/10.1117/12.2540554](https://doi.org/10.1117/12.2540554) 
 - *2020*. "Colcart - Web and mobile application to market and produce organic products in the department of Cauca".[[article]](https://es.calameo.com/read/005735784f4cb87016fd4){:.cv-link}
 - *2020*. "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". [[article]](https://en.calameo.com/read/0057357846a5bdf72578b){:.cv-link}
-
+<hr />
 
 #### Projects
 
@@ -103,11 +103,11 @@ International Symposium on Medical Information Processing and Analysis, 1133014 
 
 
 1. **Covid mutations risk dashboard**: [[Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#)][[Repository](https://github.com/sebasmos/Mu_COV19_NASA/tree/main)]
-
+<hr />
 ### Seminars 
 
 - *2021*. *Satellite imagery for NASA Space Apps challenge 2021*. Conference with AESS Unicauca. April 23-25. [[Conference](https://www.youtube.com/watch?v=YAv9jCqqC-8&t=27s&ab_channel=CAPITULOESTUDIANTILAESS-IEEEUNICAUCA)]
-
+<hr />
 ### Volunteering and open-source projects
 
 - *2021-present*. **Advisory Board member, Ex-President, Founder**. [*AESS Unicauca*](https://fiet.unicauca.edu.co/aess/), University of Cauca.
@@ -118,12 +118,13 @@ collaboration between the University of Cauca & MIT University. See my contribut
 prototype system for the visually impaired. See our project here.
 - *2019*. **Telecommunications engineer and team lead (Open-source)** for can satellite telecommunications system in UAM challenge. Details here and simulation here.
 
-
+<hr />
 ### Professional Organizations
 
 - Aerospace & Electronic Systems Society founder & Advisor at University of Cauca(AESS-Unicauca)
 - Red de Astronomia de Colombia - miembro (RAC)
 
+<hr />
 
 ### Computer skills
 
@@ -134,5 +135,4 @@ prototype system for the visually impaired. See our project here.
 * Docker. I have experice with AWS, GCP, FASRC Harvard cluster, E2E, Microsoft Azure and private servers (University of Bordeaux (UbX), Autonomous University of Madrid (UAM)).
 
 
-- **Website**: [https://sebasmos.github.io/](https://sebasmos.github.io/)
-- **Startup**: [https://sueñoparaiso.com/](https://sueñoparaiso.com/) 
+
