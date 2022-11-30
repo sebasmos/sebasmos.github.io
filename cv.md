@@ -11,13 +11,13 @@ scajasordonez [ad] gmail.com
 
 {:.cv-info}
 **Curriculum Vitae**  
-October 2022
+December 2022
 <hr />
 ### Work experience
 
-- *Sep 2022-present*. **AI Scientist** at [CeADAR](https://ceadar.ie/our-team/). 
+- *Sep 2022-present*. **AI Scientist** at [CeADAR](https://ceadar.ie/our-team/). Involved in different applied research machine learning projects (Federated Learning, Reinforcement Learning and Computer Vision) for the Innovation and Development Group, both at national and EU level, which include tasks such as data modelling of structured and unstructured data, data pipelining, API development, software and ML models testing, deployment and maintenance, dissemination activities, and authoring of technical reports.
 
-- *Jan 2022-present*. **Computer Vision Fellow** at [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez). Projects based on Cancer cells discovery based on instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
+- *Jan 2022-present*. **Computer Vision Fellow** at [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez). Develop/assess Computer Vision and Deep Learning algorithms on imaging-based single-cell methods projects on CyCIF using high-dimension microscopy images for the Harvard’s Visual Computing Group and Harvard Medical School’s Lab of Systems Pharmacology. Methods include instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
 
 - *Jan 2022-August 2022*. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). I developed a logo detection and verification framework based on the current state-of-the-art Object detectors, attribution and verification based on Contrastive text-image training, transfer-learning using transformers and image processing approaches. Under the supervision of Sophia Katrenko. Paris, France.
 
@@ -33,40 +33,36 @@ and logistics. Astronomical Observatory Francisco José de Caldas, Colombia.
 <hr />
 ### Education
 
-- *2020-2022*. **MsC. Joint Master on Image Processing and Computer vision** ([**IPCV**](http://ipcv.eu/)). Full scholarship from Erasmus Mundus Joint Master (EMJM). The University of Bordeaux, the Autonomous University of Madrid, Peter's catholic University of Pazmany. . **Location**: Spain - France -Hungary, **Scoring**: 80%.
+- *2020-2022*. **MsC. Joint Master on Image Processing and Computer vision** [[**IPCV**](http://ipcv.eu/)][[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]. Full scholarship from Erasmus Mundus Joint Master (EMJM). The University of Bordeaux, the Autonomous University of Madrid, Peter's catholic University of Pazmany. **Location**: Spain - France - Hungary, **Scoring**: 80%.
+
 - *2020*. **Data Scientist** - [Correlation One. DS4A/Colombia 4.0](https://www.correlation-one.com/). Data Science program organized by Colombian governement and Correlation One to learn from the world’s foremost experts to apply AI to real business initiatives at leading technology companies. We developped a prescriptive application  with machine learning methods, AWS, and SQL technologies. Omnivida - MiniTIC
 - *2014-2019*. **B.A. Electronics and Telecommunications engineering**. University of Cauca.  **RANKING**: 3° Position. **Scoring**: 84.488% **GPA**: 3.56
 <hr />
 ### Grants, Awards and Honors
 
-- *2021*. OpenCV 2021 competition phase 1 winner.  Finalist in the OpenCV AI Competition 2021 sponsored by Microsoft Azure and Intel, the World's biggest spatial AI competition. My team’s proposal was chosen from over 1400 submissions around the world, earning 6 OAK-D devices.
-- *2021*. Best president in the Aerospace & Electronics systems society Colombia. Prize of #AESS best President 2020 in Colombia Aerospace & Electronics Systems Society chapters. AESS Unicauca was also awarded as the best student chapters in Colombia. [**Link**](https://periodicovirtual.com/estudiantes-de-unicauca-apuestan-por-lanzar-satelite-al-espacio/)
-- *2021*. €5000 credit award for sponsoring request : *Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite in Collaboration with MIT Critical Data Colombia*. Project supported by ESA Network of Resources Initiative. [Project](https://github.com/sebasmos/satellite.extractor)
-- *2020*. Erasmus Mundus awarded Scholarship, twice in MAIA &
-IPCV programs (€48.000). [**Link**](http://www.unicauca.edu.co/portaleningles/news/unicaucas-graduate-obtains-erasmus-mundus-scholarship-one-highest-scores-program)
-- *2020*. Embry Riddle Msc in Aerospace Eng. Scholarship - USA. Graduate Teaching Assistantship (GTA) in the Advanced Dynamics and Control Lab. Projects sponsored by the National Aeronautics and Space Administration (NASA) & SBIR/STTR Technologies.
-- *2020*. Hult-Prize regional award in Popayan and finalist in
+- *2022*. **Hack2hack first place biodiversity winner** [[**Link**](https://www.hackforearth.com/cop27/winners#:~:text=Sebastian%20Andres%20Cajas%20%2C)]: Winner for the project "EvolveNet: A Meta-Attention Recommendation mechanism for seaturtle risk prediction and policy recommendation to minimize sea turtles endangerment anywhere on earth".
+- *2021*. **OpenCV 2021 competition phase 1 winner**.  Finalist in the OpenCV AI Competition 2021 sponsored by Microsoft Azure and Intel, the World's biggest spatial AI competition. My team’s proposal was chosen from over 1400 submissions around the world, earning 6 OAK-D devices.
+- *2021*. **Best president in the Aerospace & Electronics systems society Colombia**. Prize of #AESS best President 2020 in Colombia Aerospace & Electronics Systems Society chapters. AESS Unicauca was also awarded as the best student chapters in Colombia. [[**Link**](https://periodicovirtual.com/estudiantes-de-unicauca-apuestan-por-lanzar-satelite-al-espacio/)]
+- *2021*. **Awarded project (€5000 credit) for sponsoring request on Dengue forecasting** : *Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite in Collaboration with MIT Critical Data Colombia*. Project supported by ESA Network of Resources Initiative. [[Project](https://github.com/sebasmos/satellite.extractor)]
+- *2020*. **Erasmus Mundus awarded Scholarship, MAIA & IPCV programs (€48.000)** . [[**Link**](http://www.unicauca.edu.co/portaleningles/news/unicaucas-graduate-obtains-erasmus-mundus-scholarship-one-highest-scores-program)]
+- *2020*. **Embry Riddle Msc in Aerospace Eng. Scholarship - USA**. Graduate Teaching Assistantship (GTA) in the Advanced Dynamics and Control Lab. Projects sponsored by the National Aeronautics and Space Administration (NASA) & SBIR/STTR Technologies.
+- *2020*. **Hult-Prize regional awarded finalist** in Popayan and finalist in
 Monterrey, Mexico in 2020.
-- *2020*.  First place winner in IEEE R9 Humanitarian Activities for Ozone Purifier project (US $5,200). he IEEE R9 Humanitarian Activities Committee presented the COVID-19 Project Award for US$5200 for the creation of a Ozone generation, a web and mobile application.  Co-authorship with Giovanna Ramirez, Germán Cambuya, Santiago Chicangana, Camilo Segura and Jesús Gurrute. Colombia
-- *2020*. First prize in IEEE SIGHTS covid-19 for development of mechanical ventilator (3914
-USD award). [**Link**](https://aesscolombia.blogspot.com/2021/02/ayudar-respirar-la-humanidad.html)
-- *2020*. One of the 550 people selected for DS4A / Colombia over 12,000 applicants for advancing the AI knowledge and career.
+- *2020*.  **First place winner in IEEE R9 Humanitarian Activities for Ozone Purifier project (US $5,200)**. he IEEE R9 Humanitarian Activities Committee presented the COVID-19 Project Award for US$5200 for the creation of a Ozone generation, a web and mobile application.  Co-authorship with Giovanna Ramirez, Germán Cambuya, Santiago Chicangana, Camilo Segura and Jesús Gurrute. Colombia
+- *2020*. **First prize in IEEE SIGHTS covid-19 for development of mechanical ventilator (3914 USD award)**  [[**Link**](https://aesscolombia.blogspot.com/2021/02/ayudar-respirar-la-humanidad.html)]
+- *2020*. **DS4A data science selection**: One of the 550 people selected for DS4A / Colombia over 12,000 applicants for advancing the AI knowledge and career.
 DS4A is an opportunity to learn the latest Data Science & AI techniques from a tenured Harvard professor through real-world business cases organized by #MinTIC and #CorrelationOne. 
-- *2020*. Best impact global award solutions for COVID-19 in
-AAPM hackathon. [**Link**](https://www.unicauca.edu.co/versionP/noticias/interinstitucional/unicaucanos-reconocidos-con-el-premio-la-soluci%C3%B3n-de-mayor-impacto-global )
-- *2019*. Excellence award in the Huawei ICT competition
-Colombia through Global Training and Certification
-department, Bogotá, Colombia S.A.S.
-- *2016-2017*. Half Honorific Scholarship awarded at the University of Cauca
-- *2008-2013*. Merit Scholarship awarded by Technical Comfacauca
-secondary school-
+- *2020*. **Best impact global award solutions for COVID-19 in AAPM hackathon.** [**Link**](https://www.unicauca.edu.co/versionP/noticias/interinstitucional/unicaucanos-reconocidos-con-el-premio-la-soluci%C3%B3n-de-mayor-impacto-global )
+- *2019*. **Excellence award in the Regional Huawei ICT competition Colombia** through Global Training and Certification department, Bogotá, Colombia S.A.S.
+- *2016-2017*. **Half Honorific Scholarship** at B.S. in the University of Cauca
+- *2008-2013*. **Merit Scholarship** awarded by Technical Comfacauca secondary school.
 
 <hr />
-#### Dissertation
+#### Thesis works
 
-- *Logo verification and characterization with machine learning for document analysis*. EcoVadis - Paris, France.
-- *Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements
-for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts*. University of Cauca - Popayan, Colombia. 
+- **Logo verification and characterization with machine learning for document analysis**. EcoVadis - Paris, France.
+
+- **Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts**. University of Cauca - Popayan, Colombia. 
 <hr />
 #### Research Interests
 
@@ -128,11 +124,14 @@ prototype system for the visually impaired. See our project here.
 
 ### Computer skills
 
-* Front/back-end experience with web/mobile development (React, Flutter, Ionic) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP)
 
-* C++, c, java, python, SQL, typescript, shell.
-* Focused on architecturing pipelines and real-time inference run-times (PyTorch, TensorRT, Python, C++) on ML DevOps projects, in unsupervised or Self-supervised Learning applying Deep Learning to 3D Computer Vision problems.
-* Docker. I have experice with AWS, GCP, FASRC Harvard cluster, E2E, Microsoft Azure and private servers (University of Bordeaux (UbX), Autonomous University of Madrid (UAM)).
+<p>+7 years experience with python and c++.</p>
+<p> +5 years experience on java, SQL, typescript and shell.</p>
+<p> I develop all my projects with Docker.  </p>
+<p>Focused on architecturing pipelines and real-time inference run-times (PyTorch, TensorRT, Python, c++) on ML DevOps projects, in unsupervised or Self-supervised Learning applying Deep Learning to 3D Computer Vision problems.</p>
 
+<p>I have experice with AWS, GCP, FASRC Harvard cluster, E2E, Microsoft Azure and private servers (University of Bordeaux (UbX), Autonomous University of Madrid (UAM)).</p>
+
+<p> Front/back-end experience with web/mobile development (React, Flutter, Ionic) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP)</p>
 
 
