@@ -113,6 +113,7 @@ collaboration between the University of Cauca & MIT University. See my contribut
 - *2020*. **Computer vision researcher (Open-source)**: Smart Indoor Positioning, Guidance & navigation
 prototype system for the visually impaired. See our project here.
 - *2019*. **Telecommunications engineer and team lead (Open-source)** for can satellite telecommunications system in UAM challenge. Details here and simulation here.
+- *2016*. **Italian teacher assistant for refugees**: I worked as TA for Refugees from the Middle East and Africa on project supported by the European Union. AIESEC in Tortona, Italy
 
 <hr />
 ### Professional Organizations
