@@ -11,17 +11,20 @@ scajasordonez [ad] gmail.com
 
 {:.cv-info}
 **Curriculum Vitae**  
-December 2022
+Jul 15 2023
 <hr />
 ### Work experience
 
-- *Sep 2022-present*. **AI Scientist** at [CeADAR](https://ceadar.ie/our-team/). Involved in different applied research machine learning projects (Federated Learning, Reinforcement Learning and Computer Vision) for the Innovation and Development Group, both at national and EU level, which include tasks such as data modelling of structured and unstructured data, data pipelining, API development, software and ML models testing, deployment and maintenance, dissemination activities, and authoring of technical reports.
+- *Sep 2022-present*. **AI Scientist** at the [National Irish Center for Applied AI](https://ceadar.ie/). Part of the main team developing the Artificial Intelligence of ([ICOS](https://www.icos-project.eu/)), a novel IoT to Cloud Operating System funded by the European Union’s HORIZON research. My tasks involve maintaining the high-performance computing HPC cluster, developping on DevOps developing AI APIs  (Docker, Kubernetes, singularity images, SLURM). And finally implementing cutting-edge generative models in multiple areas (NLP, Federated Learning, time-series & computer vision). 
 
-- *Jan 2022-present*. **Computer Vision Fellow** at [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez). Develop/assess Computer Vision and Deep Learning algorithms on imaging-based single-cell methods projects on CyCIF using high-dimension microscopy images for the Harvard’s Visual Computing Group and Harvard Medical School’s Lab of Systems Pharmacology. Methods include instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
+- *Aug 2022-present*. **Computer Vision Research Fellow** at [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez). Develop/assess Computer Vision and Deep Learning algorithms on imaging-based single-cell methods projects on CyCIF using high-dimension microscopy images for the Harvard’s Visual Computing Group and Harvard Medical School’s Lab of Systems Pharmacology. Methods include instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
+
+- *Feb 2022-Aug 2022*: **Data Science intern** [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez): I worked at Harvard's Hanspeter Pfister Lab improving instance segmentation and deep clustering for cancer cell discovery. I was priviledged to work with Siyu Huang, Edward Novikov, Hanspeter Pfister, amongst many other great scientist.*Harvard john A. Paulson School of Engineering and Applied sciences*.
+
 
 - *Jan 2022-August 2022*. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). I developed a logo detection and verification framework based on the current state-of-the-art Object detectors, attribution and verification based on Contrastive text-image training, transfer-learning using transformers and image processing approaches. Under the supervision of Sophia Katrenko. Paris, France.
 
-- *May 2020-November 2020*. **Computer vision and Artificial Intelligence Engineer** in [AI India Innovation centre](https://aiindia.ai/). Developed the project "Land Use Land Cover Classification using advanced ML and DL techniques for Larger Study Area" project. The main tasks included accuracy assessment, creation of satellite imagery dataset from scratch, Training Models, Testing, Geospatial data and Cloud services, GPU, E2E cloud services and Collab. Valencia (Spain). 
+- *May 2020-November 2020*. **Computer vision and Artificial Intelligence Engineer** in [AI India Innovation centre](https://aiindia.ai/). Developed the project "Land Use Land Cover Classification using advanced ML and DL techniques for Larger Study Area" project. The main tasks included accuracy assessment, creation of satellite imagery dataset from scratch, Training Models, Testing, Geospatial data and Cloud services, GPU, E2E cloud services and Colab. Valencia (Spain). 
 - *2021*. **Web/mobile developer for Ozone generator**. COVID-19 Project Award for US$5200 for the creation of an Ozone generation, a web and mobile application, IEEE SIGHTS sights grant. Colombia.
 - *2020*. **Web/mobile developer for mechanical ventilator** Development of a mobile application for a mechanical ventilator project, awarded with a 3950 USD stipend. IEEE SIGHTS sights grant, Colombia.
 - *2019*. **Electronic and Physics teacher**. Teach and supervise Air-based flight machines, solar dials, lamps, flashlights, and programable robots to 400 teenagers aged between 4 and 16 years old in the United States of America. Camp Poyntelle, Pennsylvania, (U.S.A).
@@ -64,13 +67,17 @@ DS4A is an opportunity to learn the latest Data Science & AI techniques from a t
 
 - **Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts**. University of Cauca - Popayan, Colombia. 
 <hr />
-#### Research Interests
 
-- Reinforcement Learning, Data Science, Computer Vision, machine learning models, and Space Sciences (Aerospace, radioastronomy, rocketry, satellite engineering
-<hr />
 ### Publications
 
+- *2024*. A. L. Suárez-Cetrulo, S. A. Cajas, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.
 
+- *2023*. A comprenhensive review of Machine Learning at the Edge [on-review]
+- *2023*. S3 -TTA: Scale-Style Selection for Test-Time
+Augmentation in Biomedical Image Segmentation [on-review]
+- *2023*. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for
+Resource-Limited Countries. [Soon!]
+- *2023*. "G. J. Baker, E. Novikov, Y.-A. Chen, C. B. Hug, S. A. Cajas Ordóñez, S. Huang, C. Yapp, S. Coy, H. Pfister, A. Sokolov, and P. K. Sorger, "Contextual Cell State Inference in Whole-slide Multiplex Images of Tissue with Deep Convolutional Neural Networks," IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1908-1919, Jul. 2021." [on-review]
 - *2021*. "ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks. [[article]](https://ieeexplore.ieee.org/document/9344175){:.cv-link}
 - *2020*. "Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices", Proc. SPIE 11330, 15th
 International Symposium on Medical Information Processing and Analysis, 1133014 (3 January 2020). [https://doi.org/10.1117/12.2540554](https://doi.org/10.1117/12.2540554) 
@@ -78,37 +85,40 @@ International Symposium on Medical Information Processing and Analysis, 1133014 
 - *2020*. "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". [[article]](https://en.calameo.com/read/0057357846a5bdf72578b){:.cv-link}
 <hr />
 
-#### Projects
+### For-fun open-source projects 
 
-1. **NASA Space Apps tutorials**: A series of tutorials to download, integrate and apply machine learning and Deep learning to Satellite imagery. [Repository](https://github.com/sebasmos/NASASpaceApps_training)
+1. **Satellite Imagery Metadata Generator**:MetaDengue is a unified dataset format that combines satellite imagery and Socioeconomical and environmental metadata. ([Repository](https://github.com/sebasmos/MetaDengue))
 
-1. **Multi-building tracker**: Multi-target building tracker for satellite images using deep learning.  A system for multi-target building tracking using satellite images has been developed. [Repository](https://github.com/sebasmos/Multi-building-tracker)
+1. **Modeling Motion Artifacts on wearable PPG signals for ambulatory heart rate monitoring**. ([Repository](https://github.com/sebasmos/PPGpeakDetection1))
 
-1. **Modeling Motion Artifacts on wearable PPG signals for ambulatory heart rate monitoring**. [Repository](https://github.com/sebasmos/PPGpeakDetection1)
+1. **Satellite extractor**: A Dockerized API based on SentinelHub to download satellite imagery on any coordinates and fixed timestamps. Project developed in colaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia) and sponsored by SentineHub. ) [Github Repository](https://github.com/sebasmos/satellite.extractor)) ([HuggingFace datasets reseased here](https://huggingface.co/MITCriticalData))
 
-1. **Satellite extractor**: A Dockerized API based on SentinelHub to download satellite imagery on any coordinates and fixed timestamps. Project developed in colaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia) and sponsored by SentineHub. [Repository](https://github.com/sebasmos/satellite.extractor)
+1. **Vector-borne-satellite-predictor**: Deep learning for vector-borne diseases with satellite-imagery based on ResNet50 and Vision Transformer. ([Repository](https://github.com/sebasmos/vector-borne-satellite-predictor))
 
-1. **Vector-borne-satellite-predictor**: Deep learning for vector-borne diseases with satellite-imagery based on ResNet50 and Vision Transformer. [Repository](https://github.com/sebasmos/vector-borne-satellite-predictor) 
+1. **NASA Space Apps tutorials**: A series of tutorials to download, integrate and apply machine learning and Deep learning to Satellite imagery. ([Repository](https://github.com/sebasmos/NASASpaceApps_training))
 
-1. **Forecasting Solar-Flares based on LSTMs**: [Repository](https://github.com/sebasmos/SolarFlares-Standford)
+1. **Multi-building tracker**: Multi-target building tracker for satellite images using deep learning.  A system for multi-target building tracking using satellite images has been developed.([Repository](https://github.com/sebasmos/Multi-building-tracker))
 
-1. **Generator & Multifunctional ozonator for the desinfection of viruses caused by COVID-19**.  A real-time air monitoring and purification system that allows the recording of multiple air variables through a mobile application that stores them remotely in the IBM Cloud service. The TLR5 phase design of a low-cost, portable, pre commercial ozonator equipment is also proposed as a vital device in the face of contamination caused by the COVID-19 virus in Colombia. Sponsored by IEEE Humanitarian Sights. [[website](https://sebasmos.github.io/owzone)] [[Repository](https://github.com/sebasmos/owzone)]
+1. **Forecasting Solar-Flares based on LSTMs**: ([Repository](https://github.com/sebasmos/SolarFlares-Standford))
+
+1. **Generator & Multifunctional ozonator for the desinfection of viruses caused by COVID-19**.  A real-time air monitoring and purification system that allows the recording of multiple air variables through a mobile application that stores them remotely in the IBM Cloud service. The TLR5 phase design of a low-cost, portable, pre commercial ozonator equipment is also proposed as a vital device in the face of contamination caused by the COVID-19 virus in Colombia. Sponsored by IEEE Humanitarian Sights. ([website](https://sebasmos.github.io/owzone)) ([Repository](https://github.com/sebasmos/owzone))
+
+1. **NASA image satellite analysis + Mechanical ventilator & Mobile App/website project**: Design of Mechanical Ventilator, website and Monitoring Mobile application. Project Sponsored by IEEE Humanitarian Sights ([Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)) ([Repository](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)) ([Mobile App](https://github.com/sebasmos/PneumApp))
 
 
-1. **NASA image satellite analysis + Mechanical ventilator & Mobile App/website project**: Design of Mechanical Ventilator, website and Monitoring Mobile application. Project Sponsored by IEEE Humanitarian Sights [[Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)] [[Repository](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)] [[Mobile App](https://github.com/sebasmos/PneumApp)]
-
-
-1. **Covid mutations risk dashboard**: [[Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#)][[Repository](https://github.com/sebasmos/Mu_COV19_NASA/tree/main)]
+1. **Covid mutations risk dashboard**: ([Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#))([Repository](https://github.com/sebasmos/Mu_COV19_NASA/tree/main))
 <hr />
-### Seminars 
+### Seminars & blogs
 
-- *2021*. *Satellite imagery for NASA Space Apps challenge 2021*. Conference with AESS Unicauca. April 23-25. [[Conference](https://www.youtube.com/watch?v=YAv9jCqqC-8&t=27s&ab_channel=CAPITULOESTUDIANTILAESS-IEEEUNICAUCA)]
+- *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends". By CeADAR: Sebastián Andrés Cajas, Jaydeep Samanta, Andrés L. Suárez-Cetrulo, Ricardo Simón Carbajo.([Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge))
+- *2021*. *Satellite imagery for NASA Space Apps challenge 2021*. Conference with AESS Unicauca. April 23-25. ([Conference](https://www.youtube.com/watch?v=YAv9jCqqC-8&t=27s&ab_channel=CAPITULOESTUDIANTILAESS-IEEEUNICAUCA))
 <hr />
 ### Volunteering and open-source projects
 
+- *2023*. **NASA SpaceApps lead**: Leading the NASA SpaceApps 2023 that will take place in Colombia in October this year. ([Event Website 2023](https://github.com/orgs/NASA-SpaceApps/repositories))
+- *2023*. **MIT Mentor**: MIT Health Datathon 2023. ([Event](https://criticaldatathon.github.io/))
 - *2021-present*. **Advisory Board member, Ex-President, Founder**. [*AESS Unicauca*](https://fiet.unicauca.edu.co/aess/), University of Cauca.
-- *2020-present*. **Computer vision researcher (Open-source)**: Dengue’s detection with Satellite Imagery. A
-collaboration between the University of Cauca & MIT University. See my contributions
+- *2020-present*. **Research [unpaid] at Harvard-MIT Division of Health Science and Technology**: Dengue’s detection with Satellite Imagery. See my contributions
 [here](https://github.com/MITCriticalData-Colombia) | 2020-2022.
 - *2020*. **Computer vision researcher (Open-source)**: Smart Indoor Positioning, Guidance & navigation
 prototype system for the visually impaired. See our project here.
@@ -119,20 +129,33 @@ prototype system for the visually impaired. See our project here.
 ### Professional Organizations
 
 - Aerospace & Electronic Systems Society founder & Advisor at University of Cauca(AESS-Unicauca)
+
+- IEEE
+
+- AIESEC
+
 - Red de Astronomia de Colombia - miembro (RAC)
+
 
 <hr />
 
 ### Computer skills
 
 
-<p>+7 years experience with python and c++.</p>
+<p> +8 years experience with python and c++.</p>
 <p> +5 years experience on java, SQL, typescript and shell.</p>
-<p> I develop all my projects with Docker.  </p>
-<p>Focused on architecturing pipelines and real-time inference run-times (PyTorch, TensorRT, Python, c++) on ML DevOps projects, in unsupervised or Self-supervised Learning applying Deep Learning to 3D Computer Vision problems.</p>
+<p> +5 years working with Docker, Docker-compose and SLURM.  </p>
+<p>Focused on architecturing pipelines and real-time inference run-times (PyTorch,TensorFlow/Keras, TensorRT, Python, c++) on ML DevOps projects, in unsupervised or Self-supervised Learning applying Deep Learning to 3D Computer Vision problems.</p>
 
 <p>I have experice with AWS, GCP, FASRC Harvard cluster, E2E, Microsoft Azure and private servers (University of Bordeaux (UbX), Autonomous University of Madrid (UAM)).</p>
 
-<p> Front/back-end experience with web/mobile development (React, Flutter, Ionic) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP)</p>
+<p> Front/back-end experience with web/mobile development (React, Flutter, Ionic, Ruby) & Cloud experience with AWS, Firebase, IBMCloud, MongoDB, Microsoft Azure, E2E, GCP)</p>
 
 
+
+### Research Interests
+
+- I am interested in the multiple applications of Reinforcement Learning, Data Science, Computer Vision, machine learning models, and Space Sciences (Aerospace, radioastronomy, rocketry, satellite engineering).
+ And I do research for fun and the sake of learning from amazing people around the world. 
+
+<hr />
