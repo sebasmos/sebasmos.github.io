@@ -15,7 +15,7 @@ Jul 15 2023
 <hr />
 ### Work experience
 
-- *Sep 2022-present*. **AI Scientist** at the [National Irish Center for Applied AI](https://ceadar.ie/). Part of the main team developing the Artificial Intelligence of ([ICOS](https://www.icos-project.eu/)), a novel IoT to Cloud Operating System funded by the European Union’s HORIZON research. My tasks involve maintaining the high-performance computing HPC cluster, developping on DevOps developing AI APIs  (Docker, Kubernetes, singularity images, SLURM). And finally implementing cutting-edge generative models in multiple areas (NLP, Federated Learning, time-series & computer vision). 
+- *Sep 2022-present*. **AI Scientist** at the [National Irish Center for Applied AI](https://ceadar.ie/).As a member of the core team working on the Artificial Intelligence of ([ICOS](https://www.icos-project.eu/)), an innovative IoT to Cloud Operating System supported by the European Union's HORIZON research. I mantain and ensure the optimal performance of the high-performance computing (HPC) cluster, as well as actively contributing to the development of AI APIs using DevOps practices such as Docker, Kubernetes, singularity images, and SLURM. Additionally, I am involved in implementing state-of-the-art generative models across diverse domains, including Natural Language Processing (NLP), Federated Learning, time-series analysis, and computer vision.
 
 - *Aug 2022-present*. **Computer Vision Research Fellow** at [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez). Develop/assess Computer Vision and Deep Learning algorithms on imaging-based single-cell methods projects on CyCIF using high-dimension microscopy images for the Harvard’s Visual Computing Group and Harvard Medical School’s Lab of Systems Pharmacology. Methods include instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
 
@@ -70,13 +70,13 @@ DS4A is an opportunity to learn the latest Data Science & AI techniques from a t
 
 ### Publications
 
-- *2024*. A. L. Suárez-Cetrulo, S. A. Cajas, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.
+- *2023*. A. L. Suárez-Cetrulo, S. A. Cajas, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.[soon!]
 
-- *2023*. A comprenhensive review of Machine Learning at the Edge [on-review]
+- *2023*. A comprenhensive review of Machine Learning at the Edge. S. A. Cajas Ordóñez, J. Samanta,A. L. Suárez-Cetrulo [soon!]
 - *2023*. S3 -TTA: Scale-Style Selection for Test-Time
-Augmentation in Biomedical Image Segmentation [on-review]
+Augmentation in Biomedical Image Segmentation. Kangxian Xie, S. Huang,  Hanspeter Pfister, Donglai Wei, S. A. Cajas Ordóñez [on-review]
 - *2023*. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for
-Resource-Limited Countries. [Soon!]
+Resource-Limited Countries. Kuan Ting Kuo, Dana Moukheiber, Sebastian Andres Cajas Ordonez, David Restrepo, Atika Rahman Paddo, Tsung-Yu Chen, Lama Moukheiber, Mira Moukheiber, Sulaiman Moukheiber, Saptarshi Purkayastha, Po-Chih Kuo, and Leo Celi [Soon!]
 - *2023*. "G. J. Baker, E. Novikov, Y.-A. Chen, C. B. Hug, S. A. Cajas Ordóñez, S. Huang, C. Yapp, S. Coy, H. Pfister, A. Sokolov, and P. K. Sorger, "Contextual Cell State Inference in Whole-slide Multiplex Images of Tissue with Deep Convolutional Neural Networks," IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1908-1919, Jul. 2021." [on-review]
 - *2021*. "ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks. [[article]](https://ieeexplore.ieee.org/document/9344175){:.cv-link}
 - *2020*. "Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices", Proc. SPIE 11330, 15th
