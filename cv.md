@@ -11,7 +11,7 @@ scajasordonez [ad] gmail.com
 
 {:.cv-info}
 **Curriculum Vitae**  
-Jul 15 2023
+Jul 2023
 <hr />
 ### Work experience
 
@@ -19,7 +19,7 @@ Jul 15 2023
 
 - *Aug 2022-present*. **Computer Vision Research Fellow** at [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez). Develop/assess Computer Vision and Deep Learning algorithms on imaging-based single-cell methods projects on CyCIF using high-dimension microscopy images for the Harvard’s Visual Computing Group and Harvard Medical School’s Lab of Systems Pharmacology. Methods include instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
 
-- *Feb 2022-Aug 2022*: **Data Science intern** [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez): I worked at Harvard's Hanspeter Pfister Lab improving instance segmentation and deep clustering models for cancer cell discovery. I was priviledged to work with Siyu Huang, Edward Novikov, Hanspeter Pfister, amongst many other great scientist.*Harvard john A. Paulson School of Engineering and Applied sciences*.
+- *Feb 2022-Aug 2022*: **Data Science intern** [Harvard University](https://www.seas.harvard.edu/person/sebastian-andres-cajas-ordonez): I worked at Harvard's Hanspeter Pfister Lab improving instance segmentation and deep clustering models for cancer cell discovery. I was priviledged to work with Siyu Huang, Edward Novikov, Hanspeter Pfister, amongst many other great scientist. *Harvard john A. Paulson School of Engineering and Applied sciences*.
 
 
 - *Jan 2022-August 2022*. **Machine learning intern** in [EcoVadis](https://ecovadis.com/). I developed a logo detection and verification framework based on the current state-of-the-art Object detectors, attribution and verification based on Contrastive text-image training, transfer-learning using transformers and image processing approaches. Under the supervision of Sophia Katrenko. Paris, France.
