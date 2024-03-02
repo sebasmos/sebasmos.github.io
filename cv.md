@@ -7,15 +7,15 @@ layout: cv
 # Sebastian A. Cajas Ordoñez
 
 {:.cv-address}
-scajasordonez [ad] gmail.com    
+sebasmos@mit.edu
 
 {:.cv-info}
 **Curriculum Vitae**  
-Jul 2023
+March 2024
 <hr />
 ### Work experience
 
-- *Sep 2022-present*. **AI Scientist** at the [National Irish Center for Applied AI](https://ceadar.ie/). I am part of the core team working on the Artificial Intelligence of ([ICOS](https://www.icos-project.eu/)), an innovative IoT to Cloud Operating System supported by the European Union's HORIZON research. My role involves developing AI APIs, working with High Performance Computer Centers (HPC), and implementing DevOps practices such as Docker, Kubernetes, singularity, and SLURM. I specialize in implementing cutting-edge generative models across various domains like Natural Language Processing (NLP), Federated Learning, time-series analysis, and computer vision.
+- *Sep 2022-present*. **AI Scientist II** at the [National Irish Center for Applied AI](https://people.ucd.ie/sebastian.cajasordonez). I am part of the core team working on the Artificial Intelligence of ([ICOS](https://www.icos-project.eu/)), an innovative IoT to Cloud Operating System supported by the European Union's HORIZON research. My role involves developing AI APIs, working with High Performance Computer Centers (HPC), and implementing DevOps practices such as Docker, Kubernetes, singularity, and SLURM. I specialize in implementing cutting-edge generative models across various domains like Natural Language Processing (NLP), Federated Learning, time-series analysis, and computer vision.
 
 - *Aug 2022-present*. **Computer Vision Research Fellow** at Harvard University. Develop/assess Computer Vision and Deep Learning algorithms on imaging-based single-cell methods projects on CyCIF using high-dimension microscopy images for the Harvard’s Visual Computing Group and Harvard Medical School’s Lab of Systems Pharmacology. Methods include instance segmentation algorithms, unsupervised learning, image translation models and unbiased pixel-level feature extraction over Lateral Spillover in Segmented Images of Tissue with Pixel-level Cell State. Supervised by Hanspeter Pfister and Siyu Huang. *Harvard john A. Paulson School of Engineering and Applied sciences*.
 
@@ -70,19 +70,21 @@ DS4A is an opportunity to learn the latest Data Science & AI techniques from a t
 
 ### Publications
 
-- *2023*. A. L. Suárez-Cetrulo, S. A. Cajas, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.[soon!]
-
-- *2023*. A comprenhensive review of Machine Learning at the Edge. S. A. Cajas Ordóñez, J. Samanta,A. L. Suárez-Cetrulo [soon!]
+- *2024*. Cajas, S. A., Restrepo, D., Moukheiber, D., Kuo, K. T., Wu, C., Garcia Chicangana, D. S., Paddo, A. R., Moukheiber, M., Moukheiber, L., Moukheiber, S., Purkayastha, S., Lopez, D. M., Kuo, P., & Celi, L. A. (2024). A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia (version 1.0.0).
+PhysioNet. **[[online](https://doi.org/10.13026/xr5s-xe24)][[code](https://github.com/sebasmos/satellite.extractor)]**
+- *2024*. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for
+Resource-Limited Countries. Kuan Ting Kuo, Dana Moukheiber, Sebastian Andres Cajas Ordonez, David Restrepo, Atika Rahman Paddo, Tsung-Yu Chen, Lama Moukheiber, Mira Moukheiber, Sulaiman Moukheiber, Saptarshi Purkayastha, Po-Chih Kuo, and Leo Celi **[[online](https://arxiv.org/abs/2401.11114)]**
+- *2023*. A. L. Suárez-Cetrulo, S. A. Cajas, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.**[soon!]**
+- *2023*. RSC Andres L. Suarez-Cetrulo, Sebastian Andres Cajas, Jaydeep Samanta. "Intelligence Layer - ICOS project Architecture White Paper", **[[online](https://www.icos-project.eu/whitepaper-1)]**
+- *2023*. A comprenhensive review of Machine Learning at the Edge. S. A. Cajas Ordóñez, J. Samanta,A. L. Suárez-Cetrulo **[soon!]**
 - *2023*. S3 -TTA: Scale-Style Selection for Test-Time
-Augmentation in Biomedical Image Segmentation. Kangxian Xie, S. Huang,  Hanspeter Pfister, Donglai Wei, S. A. Cajas Ordóñez [on-review]
-- *2023*. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for
-Resource-Limited Countries. Kuan Ting Kuo, Dana Moukheiber, Sebastian Andres Cajas Ordonez, David Restrepo, Atika Rahman Paddo, Tsung-Yu Chen, Lama Moukheiber, Mira Moukheiber, Sulaiman Moukheiber, Saptarshi Purkayastha, Po-Chih Kuo, and Leo Celi [Soon!]
-- *2023*. "G. J. Baker, E. Novikov, Y.-A. Chen, C. B. Hug, S. A. Cajas Ordóñez, S. Huang, C. Yapp, S. Coy, H. Pfister, A. Sokolov, and P. K. Sorger, "Contextual Cell State Inference in Whole-slide Multiplex Images of Tissue with Deep Convolutional Neural Networks," IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1908-1919, Jul. 2021." [on-review]
-- *2021*. "ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks. [[article]](https://ieeexplore.ieee.org/document/9344175){:.cv-link}
+Augmentation in Biomedical Image Segmentation. Kangxian Xie, S. Huang,  Hanspeter Pfister, Donglai Wei, S. A. Cajas Ordóñez **[[online](https://doi.org/10.48550/arXiv.2310.16783)]**
+- *2023*. "G. J. Baker, E. Novikov, Y.-A. Chen, C. B. Hug, S. A. Cajas Ordóñez, S. Huang, C. Yapp, S. Coy, H. Pfister, A. Sokolov, and P. K. Sorger, "Contextual Cell State Inference in Whole-slide Multiplex Images of Tissue with Deep Convolutional Neural Networks," IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1908-1919, Jul. 2021." **[on-review]**
+- *2021*. "ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks. **[[online]](https://ieeexplore.ieee.org/document/9344175)**
 - *2020*. "Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices", Proc. SPIE 11330, 15th
-International Symposium on Medical Information Processing and Analysis, 1133014 (3 January 2020). [https://doi.org/10.1117/12.2540554](https://doi.org/10.1117/12.2540554) 
-- *2020*. "Colcart - Web and mobile application to market and produce organic products in the department of Cauca".[[article]](https://es.calameo.com/read/005735784f4cb87016fd4){:.cv-link}
-- *2020*. "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". [[article]](https://en.calameo.com/read/0057357846a5bdf72578b){:.cv-link}
+International Symposium on Medical Information Processing and Analysis, 1133014 (3 January 2020). **[[online](https://doi.org/10.1117/12.2540554)]** 
+- *2020*. "Colcart - Web and mobile application to market and produce organic products in the department of Cauca".**[[online]](https://es.calameo.com/read/005735784f4cb87016fd4)**
+- *2020*. "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". **[[online]](https://en.calameo.com/read/0057357846a5bdf72578b)**
 <hr />
 
 ### For-fun open-source projects 
@@ -91,7 +93,7 @@ International Symposium on Medical Information Processing and Analysis, 1133014 
 
 1. **Modeling Motion Artifacts on wearable PPG signals for ambulatory heart rate monitoring**. ([Repository](https://github.com/sebasmos/PPGpeakDetection1))
 
-1. **Satellite extractor**: A Dockerized API based on SentinelHub to download satellite imagery on any coordinates and fixed timestamps. Project developed in colaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia) and sponsored by SentineHub. ) [Github Repository](https://github.com/sebasmos/satellite.extractor)) ([HuggingFace datasets reseased here](https://huggingface.co/MITCriticalData))
+1. **Satellite extractor**: A Dockerized API based on SentinelHub to download satellite imagery on any coordinates and fixed timestamps. Project developed in colaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia) and sponsored by SentineHub. [Github Repository](https://github.com/sebasmos/satellite.extractor) ([HuggingFace datasets reseased here](https://huggingface.co/MITCriticalData))
 
 1. **Vector-borne-satellite-predictor**: Deep learning for vector-borne diseases with satellite-imagery based on ResNet50 and Vision Transformer. ([Repository](https://github.com/sebasmos/vector-borne-satellite-predictor))
 
@@ -118,8 +120,8 @@ International Symposium on Medical Information Processing and Analysis, 1133014 
 - *2023*. **NASA SpaceApps lead**: Leading the NASA SpaceApps 2023 that will take place in Colombia in October this year. ([Event Website 2023](https://github.com/orgs/NASA-SpaceApps/repositories))
 - *2023*. **MIT Mentor**: MIT Health Datathon 2023. ([Event](https://criticaldatathon.github.io/))
 - *2021-present*. **Advisory Board member, Ex-President, Founder**. [*AESS Unicauca*](https://fiet.unicauca.edu.co/aess/), University of Cauca.
-- *2020-present*. **Research [unpaid] at Harvard-MIT Division of Health Science and Technology**: Dengue’s detection with Satellite Imagery. See my contributions
-[here](https://github.com/MITCriticalData-Colombia) | 2020-2022.
+- *2020-present*. **Data Science Collaborator at MIT**: PI Leo Celi. Collaborations at
+[MITCriticalData-Colombia](https://github.com/MITCriticalData-Colombia) | 2020-2024.
 - *2020*. **Computer vision researcher (Open-source)**: Smart Indoor Positioning, Guidance & navigation
 prototype system for the visually impaired. See our project here.
 - *2019*. **Telecommunications engineer and team lead (Open-source)** for can satellite telecommunications system in UAM challenge. Details here and simulation here.
@@ -135,7 +137,6 @@ prototype system for the visually impaired. See our project here.
 - AIESEC
 
 - Red de Astronomia de Colombia - miembro (RAC)
-
 
 <hr />
 
@@ -155,7 +156,10 @@ prototype system for the visually impaired. See our project here.
 
 ### Research Interests
 
+<div style="text-align: left;">
 - I am interested in the multiple applications of Reinforcement Learning, Data Science, Computer Vision, machine learning models, and Space Sciences (Aerospace, radioastronomy, rocketry, satellite engineering).
  And I do research for fun and the sake of learning from amazing people around the world. 
+
+</div>
 
 <hr />

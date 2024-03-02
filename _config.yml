@@ -1,6 +1,6 @@
 # main text of home
 name: Sebastian Cajas
-bio: AI Scientist at the National Irish Center of Applied AI | Computer Vision Research Fellow at Harvard | MsC in Computer Vision 
+bio: AI Scientist II at the National Irish Center of Applied AI | Computer Vision Research Fellow at Harvard | MsC in Computer Vision 
 
 # twitter summary info
 description: Academic portfolio
@@ -37,14 +37,14 @@ email: scajasordonez [ad] gmail.com
 #authors:
 #    Sebastian:
 #        name: Sebastian Cajas
- #       bio: An astrophilic homosapiens
- #       external-image: True
- #       picture: assets/images/profile.jpg
+#        bio: An astrophilic homosapiens
+#        external-image: True
+#        picture: assets/images/profile.jpg
         
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
-# normal = 560px / large = 810px
+#normal = 560px / large = 810px
 width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
@@ -64,7 +64,7 @@ about: True
 blog: false
 
 # do you want to show the "read time" of the posts?
-read-time: false
+read-time: true
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
