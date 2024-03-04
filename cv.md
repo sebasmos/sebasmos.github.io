@@ -101,8 +101,6 @@ International Symposium on Medical Information Processing and Analysis, 1133014 
 
 1. **Multi-building tracker**: Multi-target building tracker for satellite images using deep learning.  A system for multi-target building tracking using satellite images has been developed.([Repository](https://github.com/sebasmos/Multi-building-tracker))
 
-1. **Forecasting Solar-Flares based on LSTMs**: ([Repository](https://github.com/sebasmos/SolarFlares-Standford))
-
 1. **Generator & Multifunctional ozonator for the desinfection of viruses caused by COVID-19**.  A real-time air monitoring and purification system that allows the recording of multiple air variables through a mobile application that stores them remotely in the IBM Cloud service. The TLR5 phase design of a low-cost, portable, pre commercial ozonator equipment is also proposed as a vital device in the face of contamination caused by the COVID-19 virus in Colombia. Sponsored by IEEE Humanitarian Sights. ([website](https://sebasmos.github.io/owzone)) ([Repository](https://github.com/sebasmos/owzone))
 
 1. **NASA image satellite analysis + Mechanical ventilator & Mobile App/website project**: Design of Mechanical Ventilator, website and Monitoring Mobile application. Project Sponsored by IEEE Humanitarian Sights ([Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)) ([Repository](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)) ([Mobile App](https://github.com/sebasmos/PneumApp))
@@ -110,6 +108,7 @@ International Symposium on Medical Information Processing and Analysis, 1133014 
 
 1. **Covid mutations risk dashboard**: ([Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#))([Repository](https://github.com/sebasmos/Mu_COV19_NASA/tree/main))
 <hr />
+
 ### Seminars & blogs
 
 - *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends". By CeADAR: Sebastián Andrés Cajas, Jaydeep Samanta, Andrés L. Suárez-Cetrulo, Ricardo Simón Carbajo.([Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge))
