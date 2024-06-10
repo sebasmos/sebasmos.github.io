@@ -6,10 +6,11 @@ layout: page
 
 <div style="text-align: center;">
 
-<p>Sebastian Cajas, an AI scientist at the National Irish Center of Applied AI (CeADAR) and a Fellow in Computer Science at Harvard, focuses his research on generative modeling, working extensively with vast amounts of data and High-Performance Computers (HPC's). His work spans various domains including cancer research, Public Health, Sensing data and more recently, Machine Learning at the Edge. Since 2020, Sebastian has also served as the NASA SpaceApps Lead and mentor in Popayan (Colombia) and has been actively collaborating at Leo Celi's LCP Lab at the Massachussets Institute of Technolology (MIT) as an open-source collaborator on multiple projects. Holding a B.S. degree in Electronics and Telecommunications Engineering and a Joint Master's degree in Image Processing and Computer Vision (2020-2022), he brings a multidisciplinary approach to his research and leadership roles. In 2020, Sebastian assumed the presidency of the Aerospace & Electronics Systems Society (AESS Colombia) and served as a mentor in the MIT Critical Data Datathons from 2022 to 2023.
+<p>
+Sebastián Cajas, an Artificial Intelligence Scientist at Ireland's National Center for Applied AI (CeADAR) and a Harvard Computer Science Fellow, specializes in generative modeling, working with extensive data on HPCs—cancer research, 3D neuron modeling, and recently, Edge Machine Learning. He leads NASA SpaceApps and mentors in Popayan since 2020, actively collaborating at Leo Celi's LCP Lab at MIT as an open-source contributor on multiple projects. With a B.S. in Electronics and Telecommunications Engineering and a Joint Master's in Image Processing and Computer Vision (2020-2022), Sebastián was president of AESS Colombia in 2020 and mentored MIT Critical Data datathons from 2022 to 2024.
 
 Contact: sebasmos@mit.edu
 
-</div>
-
 </p>
+
+</div>
