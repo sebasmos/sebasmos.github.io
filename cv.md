@@ -93,17 +93,6 @@ PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github
 
 <hr />
 
-###  *Open-source* Projects
-
-1. **Machine Learning for Drifts and Shifts**. ((Code)[https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning])
-1. **Vector Embeddings for Quantum Mechanics**. Trying to figure out optimized latent space using quantum computing ([Code](https://github.com/sebasmos/QuantumVE)) 
-1. **Adaptive Machine Learning for Resource-Constrained Environments: A Comparative Study on CPU Utilization Prediction Topics**: Comparing time-series foundational modeling with online learning and deep learning ([Code](https://github.com/sebasmos/AML4CPU))
-1. **Satellite extractor**: A Dockerized API based on SentinelHub to download satellite imagery on any coordinates and fixed timestamps. Project developed in colaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia) and sponsored by SentineHub. [Code](https://github.com/sebasmos/satellite.extractor) ([HuggingFace datasets reseased here](https://huggingface.co/MITCriticalData))
-1. **NASA Space Apps tutorials**: A series of tutorials to download, integrate and apply machine learning and Deep learning to Satellite imagery. ([Code](https://github.com/sebasmos/NASASpaceApps_training))
-1. **NASA image satellite analysis + Mechanical ventilator & Mobile App/website project**: Design of Mechanical Ventilator, website and Monitoring Mobile application. Project Sponsored by IEEE Humanitarian Sights ([Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)) ([Code](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)) ([Mobile App](https://github.com/sebasmos/PneumApp))
-1. **Covid mutations risk dashboard**: ([Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#))([Code](https://github.com/sebasmos/Mu_COV19_NASA/tree/main))
-
-<hr />
 
 ### Seminars & blogs
 
@@ -115,13 +104,20 @@ PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github
 ### Volunteering and Open-source projects
 
 - *2024*. **Co-Lead on the Quantum-Based Initialitive For Classification and Optimization (Qubico)**. FKIE Fraunhoffer, University of Cauca (Germany, Colombia)  ([Event Website 2024](https://qubico-hack.github.io/))
+- *2024*. **Machine Learning for Drifts and Shifts**. ([Code](https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning))
+-*2024*. **Adaptive Machine Learning for Resource-Constrained Environments: A Comparative Study on CPU Utilization Prediction Topics**: Comparing time-series foundational modeling with online learning and deep learning ([Code](https://github.com/sebasmos/AML4CPU))
+- *2024*. **Vector Embeddings for Quantum Mechanics**. Trying to figure out optimized latent space using quantum computing ([Code](https://github.com/sebasmos/QuantumVE)) 
 - *2020-present*. **NASA SpaceApps Leader**: Co-leading the NASA SpaceApps at the University of Cauca along with AESS-Unicauca, Colombia. ([Event Website](https://github.com/orgs/NASA-SpaceApps/repositories))
 - *2021-present*. **MIT Mentor**. ([Event](https://criticaldatathon.github.io/))
 - *2021-present*. **Advisory Board member, Ex-President, Founder**. [*AESS Unicauca*](https://fiet.unicauca.edu.co/aess/), University of Cauca.
 - *2020-present*. **Data Science Collaborator at MIT**: PI Leo Celi. Collaborations at
 [MITCriticalData-Colombia](https://github.com/MITCriticalData-Colombia) | 2020-present.
 - *2021-present*. **Advisory Board member, Ex-President, Founder. AESS Unicauca** at the University of Cauca.
+- *2020*. **Satellite extractor**: A Dockerized API based on SentinelHub to download satellite imagery on any coordinates and fixed timestamps. Project developed in colaboration with [MIT Critical Data Colombia](https://github.com/MITCriticalData-Colombia) and sponsored by SentineHub. [Code](https://github.com/sebasmos/satellite.extractor) ([HuggingFace datasets reseased here](https://huggingface.co/MITCriticalData))
+- *2020*. **NASA Space Apps tutorials**: A series of tutorials to download, integrate and apply machine learning and Deep learning to Satellite imagery. ([Code](https://github.com/sebasmos/NASASpaceApps_training))
 - *2020* **Computer vision researcher (Open-source)**: Smart Indoor Positioning, Guidance & navigation prototype system for the visually impaired. See our project here.
+- *2020* **IEEE Human Sights: a Mechanical ventilator**: Project Sponsored by IEEE Humanitarian Sights ([Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)) ([Code](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)) ([Mobile App](https://github.com/sebasmos/PneumApp))
+- *2020*. **Covid mutations risk dashboard**: ([Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#))([Code](https://github.com/sebasmos/Mu_COV19_NASA/tree/main))
 - *2019* **Telecommunications engineer and team lead (Open-source)** for can satellite telecommunications system in UAM challenge. Details here and simulation here.
 - *2016* **Italian teacher** assistant for refugees: I worked as TA for Refugees from the Middle East and Africa on project supported by the European Union. AIESEC in Tortona, Italy.
 
