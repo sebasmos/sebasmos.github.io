@@ -105,7 +105,6 @@ PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github
 
 - *2024*. **Co-Lead on the Quantum-Based Initialitive For Classification and Optimization (Qubico)**. FKIE Fraunhoffer, University of Cauca (Germany, Colombia)  ([Event Website 2024](https://qubico-hack.github.io/))
 - *2024*. **Machine Learning for Drifts and Shifts**. ([Code](https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning))
--*2024*. **Adaptive Machine Learning for Resource-Constrained Environments: A Comparative Study on CPU Utilization Prediction Topics**: Comparing time-series foundational modeling with online learning and deep learning ([Code](https://github.com/sebasmos/AML4CPU))
 - *2024*. **Vector Embeddings for Quantum Mechanics**. Trying to figure out optimized latent space using quantum computing ([Code](https://github.com/sebasmos/QuantumVE)) 
 - *2020-present*. **NASA SpaceApps Leader**: Co-leading the NASA SpaceApps at the University of Cauca along with AESS-Unicauca, Colombia. ([Event Website](https://github.com/orgs/NASA-SpaceApps/repositories))
 - *2021-present*. **MIT Mentor**. ([Event](https://criticaldatathon.github.io/))
