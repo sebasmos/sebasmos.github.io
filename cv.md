@@ -72,7 +72,7 @@ DS4A is an opportunity to learn the latest Data Science & AI techniques from a t
 
 ### Publications
 
-- *2024*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo, "Adaptive Machine Learning for Resource-Constrained Environments, " in Discovering Drift Phenomena in Evolving Landscape (DELTA 2024) Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD 2024), Barcelona, Catalonia, Spain, Aug. 26, 2024.
+- *2024*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo, "Adaptive Machine Learning for Resource-Constrained Environments, " in Discovering Drift Phenomena in Evolving Landscape (DELTA 2024) Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD 2024), Barcelona, Catalonia, Spain, Aug. 26, 2024. **[[Online](https://aiimlab.org/pdf/events/KDD_2024_Workshop_On_Discovering_Drift_Phenomena_in_Evolving_Landscape_DELTA/Adaptive%20Machine%20Learning%20for%20Resource-Constrained%20Environments.pdf)]**
 - *2024*. Moukheiber, D., Restrepo, **S. A. Cajas**, .. & L. A. Celi (2024). A multimodal framework for extraction and fusion of satellite images and public health data. Scientific Data, 11(1), 634. **[[Online](https://www.nature.com/articles/s41597-024-03366-1)]**
 - *2024*. **Cajas, S. A.**, Restrepo, D., Moukheiber, D., Kuo, K. T., Wu, C., Garcia Chicangana, D. S., Paddo, A. R., Moukheiber, M., Moukheiber, L., Moukheiber, S., Purkayastha, S., Lopez, D. M., Kuo, P., & Celi, L. A. (2024). A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia (version 1.0.0).
 PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github.com/sebasmos/satellite.extractor)]**
