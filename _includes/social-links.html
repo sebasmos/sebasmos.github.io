@@ -28,10 +28,15 @@
             <svg class="icon icon-pinterest"><use xlink:href="#icon-pinterest"></use></svg>
         </a>
     {% endif %}
-
     {% if site.linkedin %}
         <a class="link" data-title="linkedin.com/in/{{ site.linkedin }}" href="http://linkedin.com/in/{{ site.linkedin }}" target="_blank">
             <svg class="icon icon-linkedin"><use xlink:href="#icon-linkedin"></use></svg>
+        </a>
+    {% endif %}
+    {% if site.gscholar %}
+    
+        <a class="link" data-title="https://scholar.google.com/citations?authuser=3&user={{ site.gscholar }}" href="https://scholar.google.com/citations?authuser=3&user={{ site.linkedin }}" target="_blank">
+            <svg class="icon icon-gscholar"><use xlink:href="#icon-gscholar"></use></svg>
         </a>
     {% endif %}
 

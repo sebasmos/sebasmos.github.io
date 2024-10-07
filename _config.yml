@@ -1,6 +1,6 @@
 # main text of home
-name: Sebastian Cajas
-bio: AI Scientist II at the National Irish Center of Applied AI | Computer Vision Research Fellow at Harvard | MsC in Computer Vision 
+name: Sebastián A. Cajas Ordóñez
+bio: Senior Data Scientist | AI Scientist II at the National Irish Center of Applied AI | Fellow in SC @Harvard | Joint Master in Image Processing & Computer Vision
 
 # twitter summary info
 description: Academic portfolio
@@ -32,9 +32,10 @@ disqus: false
 linkedin: sebasmos777
 github: sebasmos
 email: scajasordonez [ad] gmail.com
+gscholar: j1aZ9oYAAAAJ
 
 
-#authors:
+# authors:
 #    Sebastian:
 #        name: Sebastian Cajas
 #        bio: An astrophilic homosapiens
@@ -54,10 +55,10 @@ width: normal
 # if you don't need projects, comment the *projects* configs below
 #projects: true
 cv: true
-#papers: true
-#writing: true
-#syllabuses: true
-#calendar: true
+# papers: true
+# writing: true
+# syllabuses: true
+# calendar: true
 
 # if you don't need "about" or "blog", comment them out below
 about: True
