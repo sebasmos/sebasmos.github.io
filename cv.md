@@ -12,12 +12,12 @@ sebasmos [ad] mit.edu, scajasordonez [ad] gmail.com
 {:.cv-info}
 
 **Curriculum Vitae**  
-October 2024
+April 2025
 <hr />
 
 ### WORK EXPERIENCE
 
-- *9/2022 - Present*. **AI Scientist II** at the [National Irish Center for Applied AI](https://people.ucd.ie/sebastian.cajasordonez). As a core member of the AI team for [ICOS](https://www.icos-project.eu/), an AI ecosystem for edge devices, I specialize in multi-modal learning, online learning, federated learning, and computer vision. My responsibilities include developing AI APIs, utilizing High Performance Computing (HPC), and implementing DevOps practices such as Docker and SLURM/Singularity. I actively support both national and EU innovation projects, focusing on data modeling and enhancing machine learning model deployment.
+- *9/2022 - Present*. **Senior - AI Scientist** at the [Ireland's National Center for Applied AI](https://people.ucd.ie/sebastian.cajasordonez). As a core member of the AI team for [ICOS](https://www.icos-project.eu/), an AI ecosystem for Edge AI, I specialize in multi-modal learning, online learning, federated learning, and computer vision. Developing AI APIs, utilizing High Performance Computing (HPC), and implementing DevOps with Docker, Kubernetes and SLURM/Singularity. I support both national and EU innovation projects.
 
 - *01/2022 - 01/2024*. **Fellow in Computer Science** at Harvard University. I developed and assessed Computer Vision and Deep Learning algorithms for imaging-based single-cell methods projects, specifically CyCIF using high-dimensional microscopy images, within Harvard's Visual Computing Group and the Harvard Medical School’s Lab of Systems Pharmacology. My work involved instance segmentation algorithms, unsupervised learning, image translation models, and unbiased pixel-level feature extraction for analyzing lateral spillover in segmented images of tissue. Supervised by Hanspeter Pfister and Siyu Huang at the *Harvard John A. Paulson School of Engineering and Applied Sciences*.
 
@@ -36,7 +36,7 @@ October 2024
 - *10/2013 - Present*. **General Director & CEO**. I serve as an astronomy interpreter and public speaker, overseeing financial resources and logistics at the Astronomical Observatory Francisco José de Caldas, Colombia.
 ### EDUCATION
 
-- *2020 - 2022*. **MSc. Joint Master in Image Processing and Computer Vision** [[**IPCV**](http://ipcv.eu/)][[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]. Awarded a full scholarship from the Erasmus Mundus Joint Master (EMJM). This program involved collaboration among The University of Bordeaux, the Autonomous University of Madrid, and Peter's Catholic University of Pazmany. **Location**: Spain - France - Hungary.
+- *2020 - 2022*. **Joint Master on Image Processing & Computer Vision (IPCV) - Awarded Erasmus Mundus Joint Master Scholarship** [[**IPCV**](http://ipcv.eu/)][[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]. Awarded a full scholarship from the Erasmus Mundus Joint Master (EMJM). This program involved collaboration among The University of Bordeaux, the Autonomous University of Madrid, and Peter's Catholic University of Pazmany. **Location**: Spain - France - Hungary.
 - *01/2022 - 08/2022*. **Machine Learning Intern** at Harvard University. I contributed to the Hanspeter Pfister Lab by improving instance segmentation and deep clustering models for cancer cell discovery, utilizing the FASRC Computing Cluster (HPC). I had the privilege of collaborating with esteemed researchers such as Siyu Huang, Edward Novikov, and Hanspeter Pfister at the *Harvard John A. Paulson School of Engineering and Applied Sciences*.
 - *2020*. **Data Scientist** at [Correlation One. DS4A/Colombia 4.0](https://www.credential.net/de069f81-eb59-48eb-96d6-337d9561632a#gs.o9m4gx). Data Science for All (DS4A)/Colombia 2.0, highly tailored program focused on Data Science and Artificial Intelligence - Sponsored by The Ministery of Information and Communication Technologies of Colombia (MinTIC) with Correlation One
 
@@ -73,14 +73,19 @@ October 2024
 
 ### PUBLICATIONS
 
-- *2024*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo, "Adaptive Machine Learning for Resource-Constrained Environments, " in Discovering Drift Phenomena in Evolving Landscape (DELTA 2024) Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD 2024), Barcelona, Catalonia, Spain, Aug. 26, 2024. **[[Zenodo](https://doi.org/10.5281/zenodo.13828347)]**. **[[Online](https://aiimlab.org/pdf/events/KDD_2024_Workshop_On_Discovering_Drift_Phenomena_in_Evolving_Landscape_DELTA/Adaptive%20Machine%20Learning%20for%20Resource-Constrained%20Environments.pdf)]** 
+- J.Garcia, X.Masip-Bruin, A.Giannopoulos, P.Trakadas, **S. A. Cajas**, J.Samanta, A.Suárez, R.Simon, M.Michalke, A.Jukan, A.Jaworski, M.Kotlinski, G.Gianammatteo, F.D’Andria, “ICOS: An Intelligent MetaOS for the Continuum”, 2nd International Workshop on MetaOS for the Cloud-Edge-IoT Continuum (MECC 2025), at the ACM EuroSys 2025, March 30 to April 3, 2025, Rotterdam, Netherlands. **[[Online](https://dl.acm.org/doi/10.1145/3721889.3721929)]**
+
+- *2024*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo, "Adaptive Machine Learning for Resource-Constrained Environments, " in Discovering Drift Phenomena in Evolving Landscape (DELTA 2024) Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD 2024), Barcelona, Catalonia, Spain, Aug. 26, 2024. **[[Online](https://link.springer.com/chapter/10.1007/978-3-031-82346-6_1)]**. **[[Pre-print](https://arxiv.org/abs/2503.18634)]** 
 
 - *2024*. Moukheiber, D., Restrepo, **S. A. Cajas**, .. & L. A. Celi (2024). A multimodal framework for extraction and fusion of satellite images and public health data. Scientific Data, 11(1), 634. **[[Online](https://www.nature.com/articles/s41597-024-03366-1)]**
 - *2024*. **Cajas, S. A.**, Restrepo, D., Moukheiber, D., Kuo, K. T., Wu, C., Garcia Chicangana, D. S., Paddo, A. R., Moukheiber, M., Moukheiber, L., Moukheiber, S., Purkayastha, S., Lopez, D. M., Kuo, P., & Celi, L. A. (2024). A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia (version 1.0.0).
 PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github.com/sebasmos/satellite.extractor)]**
-- *2024*. Kuo, K.T., Moukheiber, **Cajas, S. A.**, S.C., Restrepo, D., Paddo, A.R., Chen, T.Y., Moukheiber, L., Moukheiber, M., Moukheiber, S., Purkayastha, S. and Kuo, P.C., 2024. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries. arXiv preprint arXiv:2401.11114. **[[online](https://arxiv.org/abs/2401.11114)]**
+- *2024*. Kuo, K.T., Moukheiber, **Cajas, S. A.**, S.C., Restrepo, D., Paddo, A.R., Chen, T.Y., Moukheiber, L., Moukheiber, M., Moukheiber, S., Purkayastha, S. and Kuo, P.C., 2024. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries. arXiv preprint arXiv:2401.11114. **[[Paper](https://arxiv.org/abs/2401.11114)]**
+- *2024*, K. Xie, S. Huang, **Cajas, S. A.**, H. Pfister and D. Wei, "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation," 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, 2024, pp. 1-5, doi: 10.1109/ISBI56570.2024.10635833. **[[Paper](https://ieeexplore.ieee.org/abstract/document/10635833)]**
+
+- *2024*. Restrepo, D., Wu, C., **Cajas, S. A.**, Nakayama, L. F., Celi, L. A., & López, D. M. (2024). Multimodal deep learning for low-resource settings: A vector embedding alignment approach for healthcare applications. **[[Online](https://www.medrxiv.org/content/10.1101/2024.06.03.24308401v1.full)]**
 - *2023*. A. L. Suárez-Cetrulo, **Cajas, S. A.**, J. Samanta. "Intelligence Layer - ICOS project Architecture White Paper", **[[Paper](https://www.icos-project.eu/)]**
-- *2023*. Xie, K., Huang, S., **Cajas, S. A.**, Pfister, H. and Wei, D., 2023. S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation. arXiv preprint arXiv:2310.16783. **[[Paper](https://ieeexplore.ieee.org/abstract/document/10635833)]**
+
 - *2021*. **Cajas, S.**, Astaiza, P., Garcia-Chicangana, D.S., Segura, C. and Lopéz, D.M., 2020, September. ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks. In 2020 Computing in Cardiology (pp. 1-4). IEEE. **[[Paper]](https://ieeexplore.ieee.org/document/9344175)[[Code](https://github.com/sebasmos/CardioLux)]** 
 - *2020*. **Cajas, S.A.**, Landínez, M.A. and López, D.M., 2020, January. Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices. In 15th International Symposium on Medical Information Processing and Analysis (Vol. 11330, pp. 320-334). SPIE. **[[Paper](https://doi.org/10.1117/12.2540554)][[Code](https://github.com/sebasmos/PPGpeakDetection)]** 
 - *2020*. "Colcart - Web and mobile application to market and produce organic products in the department of Cauca".**[[Online]](https://es.calameo.com/read/005735784f4cb87016fd4)**
@@ -88,15 +93,17 @@ PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github
 
 **UPCOMING**:
 
-- *2024*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo. A comprenhensive review of Machine Learning at the Edge. [soon!]
-- *2024*. Restrepo, D., Wu, C., **Cajas, S. A.**, Nakayama, L. F., Celi, L. A., & López, D. M. (2024). Multimodal deep learning for low-resource settings: A vector embedding alignment approach for healthcare applications. **[[Online](https://www.medrxiv.org/content/10.1101/2024.06.03.24308401v1.full)]**
-- *2024*. A. L. Suárez-Cetrulo, **Cajas, S. A.**, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.**[[Code](https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning)]**
+- *2025*, **S. A. Cajas**, S. A. (2025) “Embedding-Aware Quantum-Classical SVMs for Scalable Quantum Machine Learning (Code Archive)”. Zenodo. doi: 10.5281/zenodo.15264568.
+- *2025*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo. A comprenhensive review of Machine Learning at the Edge. [soon!]
+- *2025*. A. L. Suárez-Cetrulo, **Cajas, S. A.**, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.**[[Code](https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning)]**
 - *2023*. "G. J. Baker, E. Novikov, Y.-A. Chen, C. B. Hug, **Cajas, S. A.**, S. Huang, C. Yapp, S. Coy, H. Pfister, A. Sokolov, and P. K. Sorger, "Contextual Cell State Inference in Whole-slide Multiplex Images of Tissue with Deep Convolutional Neural Networks," IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1908-1919, Jul. 2021." **[on-review]**
 
 <hr />
 
 
 ### SEMINARS & BLOGS
+
+- *2025. Towards a functional continuum operating system (ICOS)*: **[[ICOS-Project](https://www.icos-project.eu/docs/)]** 
 - *2024*. *Poster*. Adaptive Machine Learning for Resource-Constrained Environments. Discovering Drift Phenomena in Evolving Landscape (DELTA 2024), Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024), Barcelona. CeADAR Ireland. **[[Online](https://doi.org/10.13140/RG.2.2.24508.24966)]**
 - *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends". By CeADAR: Sebastián Andrés Cajas, Jaydeep Samanta, Andrés L. Suárez-Cetrulo, Ricardo Simón Carbajo. **[[Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge)]**
 - *2021*. *Satellite imagery for NASA Space Apps challenge 2021*. Conference with AESS Unicauca. April 23-25. **[[Conference](https://www.youtube.com/watch?v=YAv9jCqqC-8&t=27s&ab_channel=CAPITULOESTUDIANTILAESS-IEEEUNICAUCA)]**
@@ -122,12 +129,15 @@ PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github
 <hr />
 
 
-### SKILLS
+### Technical Skills & Expertise
 
-- **Languages**: Python/C++ (8+ yrs), Java, SQL, TypeScript, Shell (5+ yrs). *OOP, API Dev*.
-- **ML & AI**: Proficient in ML frameworks (scikit-learn, TensorFlow, PyTorch); ML DevOps; optimized pipelines & real-time inference. *Unsupervised, Self-supervised, 3D CV, GANs, LLMs*.
-- **Cloud & DevOps**: Proficient in AWS, GCP, Azure, private servers. *IaaS, PaaS, MLOps, CI/CD*.
-- **Containers**: Docker (deployment); Kubernetes (orchestration). *Containerization, Microservices*.
+
+- **Programming**: Python/C++ (8+ yrs), Java, SQL, TypeScript, Shell (5+ yrs). *OOP, API Dev*.
+- **Data Engineering**: PostgreSQL, MySQL, MongoDB, ETL, large-scale pipelines, dataset design
+- **Machine Learning & AI**: PyTorch, TensorFlow, Hugging Face, 🤗 Datasets, model training & optimization
+- **LLM & NLP**: Prompt engineering, fine-tuning (LoRA, PEFT), in-context learning, RAG, LLaMA, GPT, Mistral, spaCy, NLTK, LangChain.
+- **Multimodal Learning**: CLIP, BLIP, ViLT, writing stuff about deep multimodal fusion.
+- **Cloud & DevOps**: AWS, GCP, Azure, Oracle, CI/CD, scalable AI deployments
+- **MLOps**: Docker (deployment); Kubernetes (orchestration). *Containerization, Microservices*. End-to-end apps with React, Flutter, Ionic; integrated Firebase & IBM Cloud. *SPA, REST APIs*.
 - **Data Engineering**: SQL/NoSQL (MongoDB), data pipelines, data wrangling. *ETL, Big Data, Data Warehousing*.
-- **Full-Stack**: End-to-end apps with React, Flutter, Ionic; integrated Firebase & IBM Cloud. *SPA, REST APIs*.
-- **HPC**: Experience with clusters (FASRC Harvard) for data processing & model training. *Parallel Processing, Distributed Computing*.
+- **High-Performance Computing**: HPC clusters (Harvard FASRC), Sonic UCD Cluster, Slurm, parallel training, Distributed Computing.

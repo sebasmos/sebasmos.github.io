@@ -7,7 +7,7 @@ layout: page
 <div style="text-align: center;">
 
 <p>
-Dedicated Full-Stack AI Scientist with 8 years of experience in Artificial Intelligence and 4 years as a professional AI Engineer. Since 2022, I have specialized in generative modeling, working as a Fellow in Computer Science at Harvard alongside Hanspeter Pfister and Siyu Huang, and as an AI Scientist at the National Irish Center for Applied AI (CeADAR). Since 2020, I have contributed to open-source projects at the MIT LCP Lab under the supervision of Leo Celi. My current focus is on Computer Vision, Visual Language Models and AI alignment in machine learning, overseeing the entire lifecycle of ML projects, from front-end to back-end. I have successfully secured and led over 35+ grants. My leadership roles include serving as AESS President at the University of Cauca (2020), leading NASA SpaceApps from 2020 to 2024, and mentoring at MIT Critical Data (2022-2024).
+Full-stack AI scientist with 8 years of experience in Artificial Intelligence and 4 years as a professional AI engineer. I specialize in optimizing Visual Language Models (via distillation, pruning, quantization) and aligning Multimodal Large Language Models (MLLMs). My work spans the full ML lifecycle - from front-end to scalable back-end systems - including training, fine-tuning, and evaluating LLMs like LLaMA and GPT-style models for both general and domain-specific tasks. I’m passionate about building interpretable, multimodal systems that integrate text, images, and structured data. I’ve led +35 funded projects and held leadership roles such as AESS President (2020), NASA SpaceApps Lead (2020–2025), and MIT Critical Data Mentor (2022–2025).
 
 </p>
 
