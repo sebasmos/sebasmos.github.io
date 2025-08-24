@@ -12,7 +12,7 @@ sebasmos [ad] mit.edu, scajasordonez [ad] gmail.com
 {:.cv-info}
 
 **Curriculum Vitae**  
-April 2025
+August 2025
 <hr />
 
 ### WORK EXPERIENCE
@@ -69,34 +69,46 @@ April 2025
 
 - **Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts**. **[[Online](http://repositorio.unicauca.edu.co:8080/xmlui/handle/123456789/7802)]**. University of Cauca - Popayan, Colombia. 
 
-<hr />
+
+---
 
 ### PUBLICATIONS
 
-- J.Garcia, X.Masip-Bruin, A.Giannopoulos, P.Trakadas, **S. A. Cajas**, J.Samanta, A.Suárez, R.Simon, M.Michalke, A.Jukan, A.Jaworski, M.Kotlinski, G.Gianammatteo, F.D’Andria, “ICOS: An Intelligent MetaOS for the Continuum”, 2nd International Workshop on MetaOS for the Cloud-Edge-IoT Continuum (MECC 2025), at the ACM EuroSys 2025, March 30 to April 3, 2025, Rotterdam, Netherlands. **[[Online](https://dl.acm.org/doi/10.1145/3721889.3721929)]**
+* Aspis, M., **S. A. Cajas**, Suárez-Cetrulo, A. L., & Carbajo, R. S. (2025). DriftMoE: A Mixture of Experts Approach to Handle Concept Drifts. arXiv preprint arXiv:2507.18464. **\[[Paper](https://arxiv.org/abs/2507.18464)]**
 
-- *2024*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo, "Adaptive Machine Learning for Resource-Constrained Environments, " in Discovering Drift Phenomena in Evolving Landscape (DELTA 2024) Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD 2024), Barcelona, Catalonia, Spain, Aug. 26, 2024. **[[Online](https://link.springer.com/chapter/10.1007/978-3-031-82346-6_1)]**. **[[Pre-print](https://arxiv.org/abs/2503.18634)]** 
+* **S. A. Cajas**, L. F. Torres Torres, M. Bifulco, C. A. Duran, C. Bosch and R. S. Carbajo, "Embedding-Aware Quantum-Classical SVMs for Scalable Quantum Machine Learning," 2025. **\[[Paper](https://arxiv.org/abs/2508.00024)]**
 
-- *2024*. Moukheiber, D., Restrepo, **S. A. Cajas**, .. & L. A. Celi (2024). A multimodal framework for extraction and fusion of satellite images and public health data. Scientific Data, 11(1), 634. **[[Online](https://www.nature.com/articles/s41597-024-03366-1)]**
-- *2024*. **Cajas, S. A.**, Restrepo, D., Moukheiber, D., Kuo, K. T., Wu, C., Garcia Chicangana, D. S., Paddo, A. R., Moukheiber, M., Moukheiber, L., Moukheiber, S., Purkayastha, S., Lopez, D. M., Kuo, P., & Celi, L. A. (2024). A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia (version 1.0.0).
-PhysioNet. **[[Paper](https://doi.org/10.13026/xr5s-xe24)][[code](https://github.com/sebasmos/satellite.extractor)]**
-- *2024*. Kuo, K.T., Moukheiber, **Cajas, S. A.**, S.C., Restrepo, D., Paddo, A.R., Chen, T.Y., Moukheiber, L., Moukheiber, M., Moukheiber, S., Purkayastha, S. and Kuo, P.C., 2024. DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries. arXiv preprint arXiv:2401.11114. **[[Paper](https://arxiv.org/abs/2401.11114)]**
-- *2024*, K. Xie, S. Huang, **Cajas, S. A.**, H. Pfister and D. Wei, "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation," 2024 IEEE International Symposium on Biomedical Imaging (ISBI), Athens, Greece, 2024, pp. 1-5, doi: 10.1109/ISBI56570.2024.10635833. **[[Paper](https://ieeexplore.ieee.org/abstract/document/10635833)]**
+* **S. A. Cajas**, et al. Humility and curiosity in human–AI systems for health care. *The Lancet*, 2025, vol. 406, no 10505, p. 804-805. **\[[Paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2825%2901626-5/fulltext)]**
 
-- *2024*. Restrepo, D., Wu, C., **Cajas, S. A.**, Nakayama, L. F., Celi, L. A., & López, D. M. (2024). Multimodal deep learning for low-resource settings: A vector embedding alignment approach for healthcare applications. **[[Online](https://www.medrxiv.org/content/10.1101/2024.06.03.24308401v1.full)]**
-- *2023*. A. L. Suárez-Cetrulo, **Cajas, S. A.**, J. Samanta. "Intelligence Layer - ICOS project Architecture White Paper", **[[Paper](https://www.icos-project.eu/)]**
+* G. J. Baker, E. Novikov, S. Coy, Y.-A. Chen, C. B. Hug, Z. Ahmed, **S. A. Cajas**, et al. "Morphology-aware profiling of highly multiplexed tissue images using variational autoencoders," *bioRxiv*. **\[[Paper](https://www.biorxiv.org/content/10.1101/2025.06.23.661064v1)]**
 
-- *2021*. **Cajas, S.**, Astaiza, P., Garcia-Chicangana, D.S., Segura, C. and Lopéz, D.M., 2020, September. ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks. In 2020 Computing in Cardiology (pp. 1-4). IEEE. **[[Paper]](https://ieeexplore.ieee.org/document/9344175)[[Code](https://github.com/sebasmos/CardioLux)]** 
-- *2020*. **Cajas, S.A.**, Landínez, M.A. and López, D.M., 2020, January. Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices. In 15th International Symposium on Medical Information Processing and Analysis (Vol. 11330, pp. 320-334). SPIE. **[[Paper](https://doi.org/10.1117/12.2540554)][[Code](https://github.com/sebasmos/PPGpeakDetection)]** 
-- *2020*. "Colcart - Web and mobile application to market and produce organic products in the department of Cauca".**[[Online]](https://es.calameo.com/read/005735784f4cb87016fd4)**
-- *2020*. "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". **[[Online]](https://en.calameo.com/read/0057357846a5bdf72578b)**
+* J. Garcia, X. Masip-Bruin, A. Giannopoulos, P. Trakadas, **S. A. Cajas**, et al. “ICOS: An Intelligent MetaOS for the Continuum”, MECC 2025, ACM EuroSys 2025. **\[[Paper](https://dl.acm.org/doi/10.1145/3721889.3721929)]**
 
-**UPCOMING**:
+* **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, R. S. Carbajo (2024). Adaptive Machine Learning for Resource-Constrained Environments. *DELTA 2024, LNCS, Springer.*
+  **\[[Online](https://link.springer.com/chapter/10.1007/978-3-031-82346-6_1)] \[[Pre-print](https://arxiv.org/abs/2503.18634)]**
 
-- *2025*, **S. A. Cajas**, S. A. (2025) “Embedding-Aware Quantum-Classical SVMs for Scalable Quantum Machine Learning (Code Archive)”. Zenodo. doi: 10.5281/zenodo.15264568.
-- *2025*. **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo. A comprenhensive review of Machine Learning at the Edge. [soon!]
-- *2025*. A. L. Suárez-Cetrulo, **Cajas, S. A.**, J. Samanta, and R. S. Carbajo, "Machine Learning under Drifts and Shifts," in Proceedings of the International Conference on Machine Learning, ISBN: 978-1-83508-358-1, 2023.**[[Code](https://github.com/PacktPublishing/Data-Drift-in-Machine-Learning)]**
-- *2023*. "G. J. Baker, E. Novikov, Y.-A. Chen, C. B. Hug, **Cajas, S. A.**, S. Huang, C. Yapp, S. Coy, H. Pfister, A. Sokolov, and P. K. Sorger, "Contextual Cell State Inference in Whole-slide Multiplex Images of Tissue with Deep Convolutional Neural Networks," IEEE Transactions on Medical Imaging, vol. 40, no. 7, pp. 1908-1919, Jul. 2021." **[on-review]**
+* Moukheiber, D., Restrepo, **S. A. Cajas**, & L. A. Celi (2024). A multimodal framework for extraction and fusion of satellite images and public health data. *Scientific Data, 11(1), 634.* **\[[Paper](https://www.nature.com/articles/s41597-024-03366-1)]**
+
+* **S. A. Cajas**, Restrepo, D., Moukheiber, D., Kuo, K. T., Wu, C., et al. (2024). A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia (version 1.0.0). *PhysioNet.*
+  **\[[Paper](https://doi.org/10.13026/xr5s-xe24)] \[[Code](https://github.com/sebasmos/satellite.extractor)]**
+
+* Kuo, K. T., Moukheiber, **S. A. Cajas**, Restrepo, D., et al. (2024). DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries. arXiv preprint. **\[[Paper](https://arxiv.org/abs/2401.11114)]**
+
+* K. Xie, S. Huang, **S. A. Cajas**, H. Pfister, D. Wei (2024). "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation," IEEE ISBI 2024. **\[[Paper](https://ieeexplore.ieee.org/abstract/document/10635833)]**
+
+* Restrepo, D., Wu, C., **S. A. Cajas**, Nakayama, L. F., Celi, L. A., & López, D. M. (2024). Multimodal deep learning for low-resource settings: A vector embedding alignment approach for healthcare applications. *medRxiv.* **\[[Paper](https://www.medrxiv.org/content/10.1101/2024.06.03.24308401v1.full)]**
+
+* A. L. Suárez-Cetrulo, **S. A. Cajas**, J. Samanta (2023). "Intelligence Layer - ICOS project Architecture White Paper". **\[[Paper](https://www.icos-project.eu/)]**
+
+* **S. A. Cajas**, Astaiza, P., Garcia-Chicangana, D. S., Segura, C., Lopéz, D. M. (2021). ECG Arrhythmia Classification Using Non-Linear Features and CNNs. *Computing in Cardiology.*
+  **\[[Paper](https://ieeexplore.ieee.org/document/9344175)] \[[Code](https://github.com/sebasmos/CardioLux)]**
+
+* **S. A. Cajas**, Landínez, M. A., López, D. M. (2020). Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices. *15th Int. Symposium on MIPA, SPIE.*
+  **\[[Paper](https://doi.org/10.1117/12.2540554)] \[[Code](https://github.com/sebasmos/PPGpeakDetection)]**
+
+* **S. A. Cajas** (2020). "Colcart - Web and mobile application to market and produce organic products in the department of Cauca". **\[[Online](https://es.calameo.com/read/005735784f4cb87016fd4)]**
+
+* **S. A. Cajas** (2020). "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". **\[[Online](https://en.calameo.com/read/0057357846a5bdf72578b)]**
 
 <hr />
 
