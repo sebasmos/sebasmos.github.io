@@ -12,144 +12,212 @@ sebasmos [ad] mit.edu, scajasordonez [ad] gmail.com
 {:.cv-info}
 
 **Curriculum Vitae**  
-August 2025
+April 2026
 <hr />
 
 ### WORK EXPERIENCE
 
-- *9/2022 - Present*. **Senior - AI Scientist** at the [Ireland's National Center for Applied AI](https://people.ucd.ie/sebastian.cajasordonez). As a core member of the AI team for [ICOS](https://www.icos-project.eu/), an AI ecosystem for Edge AI, I specialize in multi-modal learning, online learning, federated learning, and computer vision. Developing AI APIs, utilizing High Performance Computing (HPC), and implementing DevOps with Docker, Kubernetes and SLURM/Singularity. I support both national and EU innovation projects.
+- *01/2026 - Present*. **Senior AI/ML Software Engineer** at [Workday](https://www.workday.com/), Dublin, Ireland. Building human-AI systems for the Growth Team.
 
-- *01/2022 - 01/2024*. **Fellow in Computer Science** at Harvard University. I developed and assessed Computer Vision and Deep Learning algorithms for imaging-based single-cell methods projects, specifically CyCIF using high-dimensional microscopy images, within Harvard's Visual Computing Group and the Harvard Medical School’s Lab of Systems Pharmacology. My work involved instance segmentation algorithms, unsupervised learning, image translation models, and unbiased pixel-level feature extraction for analyzing lateral spillover in segmented images of tissue. Supervised by Hanspeter Pfister and Siyu Huang at the *Harvard John A. Paulson School of Engineering and Applied Sciences*.
+- *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data, a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
+  - Lead research programs across three continents (Americas, Europe, Africa) with Dr. Leo Celi, designing human-AI systems and AI agents for global health.
+  - Driven 20+ open-source projects spanning clinical NLP, satellite-based disease surveillance, privacy-preserving de-identification, and multi-modal learning for low-resource settings.
+  - Creator of [BODHI](https://criticaldata.github.io/bodhi/), an engineering framework for curiosity-driven AI in clinical decision support — achieving 97.3% rate of appropriate clarifying questions vs 7.8% baseline.
+  - Work published in *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]** **[[BODHI](https://criticaldata.github.io/bodhi/)]**
 
-- *01/2022 - 08/2022*. **Machine Learning Intern** at [EcoVadis](https://ecovadis.com/). I developed an innovative attribution strategy leveraging Contrastive Language-Image Pretraining (CLIP) to enhance logo identification and verification within EcoVadis's production environment. This project combined YOLO and transformers for advanced text-image training and multi-modal logo identification. I also designed a self-supervised method for efficient logo annotation, curating over 20,000 images to refine the dataset, which significantly improved logo recognition in documents under the guidance of Sophia Katrenko in Paris, France.
+- *09/2022 - 09/2025*. **Senior AI Scientist** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
+  - Architected LLM pipelines (LLaMA, DeepSeek, Mistral) for enterprise document classification and summarization, reducing manual processing time by over 60%.
+  - Designed and deployed multimodal, online, and federated learning systems for edge AI at continental scale across 8 EU partner organizations.
+  - Delivered production AI APIs and MLOps workflows on HPC infrastructure using Docker, Kubernetes, and SLURM/Singularity.
+  - Published 6 papers and co-authored 1 EU architecture white paper during this period.
 
-- *05/2020 - 10/2020*. **Computer Vision and Artificial Intelligence Engineer** at [AI India Innovation Centre](https://aiindia.ai/). I led the "Land Use Land Cover Classification using Advanced ML and DL Techniques for Larger Study Area" project. My primary tasks included accuracy assessment, satellite imagery dataset creation from scratch, model training and testing, as well as utilizing geospatial data and cloud services, including GPU and E2E cloud services, and Google Colab, based in Valencia, Spain.
+- *01/2022 - 01/2024*. **Fellow in Computer Science** at [Harvard University](https://seas.harvard.edu). Key contributions include:
+  - Led development of computer vision and deep learning algorithms for single-cell imaging (CyCIF) using high-dimensional microscopy in the [Visual Computing Group](https://vcg.seas.harvard.edu) and Harvard Medical School's Lab of Systems Pharmacology.
+  - Worked on instance segmentation, unsupervised learning, image translation models, and unbiased pixel-level feature extraction for analyzing lateral spillover in segmented tissue images.
+  - Supervised by [Hanspeter Pfister](https://scholar.google.com/citations?user=VWX-GMAAAAAJ&hl=en) and [Siyu Huang](https://scholar.google.com/citations?user=hQN7Zn0AAAAJ&hl=zh-CN) at the *Harvard John A. Paulson School of Engineering and Applied Sciences*.
 
-- *2019*. **Astronomy and Physics Teacher**. My role involved educating 400+ students about astronomy and physics at Camp Poyntelle, Pennsylvania, U.S.A.
+- *01/2022 - 08/2022*. **Machine Learning Intern** at [EcoVadis](https://ecovadis.com/), Paris, France. Key contributions include:
+  - Developed a CLIP-based attribution strategy for logo identification and verification in production documents.
+  - Combined YOLO and transformers for multi-modal logo detection; built a self-supervised annotation pipeline curating 20,000+ images.
+  - Supervised by [Sophia Katrenko](https://scholar.google.com/citations?user=t1H5sCwAAAAJ&hl=nl).
 
-- *2016 - 2018*. **IT Network Technician**. Responsible for documenting all systems and network adjustments and ensuring the maintenance and installation of hardware and software for telecommunication and network devices across various faculties of the University of Cauca, Colombia.
+- *05/2020 - 10/2020*. **ML/CV Engineer** at [AI India Innovation Centre](https://aiindia.ai/), Valencia, Spain. Delivered an end-to-end land-use classification system (dataset creation, model training, evaluation) and optimized geospatial workflows with cloud compute and GPU tooling for large-scale satellite image analysis.
 
-- *2018*. **Computer Science Teacher**. Developed web and mobile applications as part of the general literacy curriculum program for refugees at Social Hackers Academy in Athens, Greece.
+- *2019*. **Teacher** at Camp Poyntelle, USA. Educated 400+ students in astronomy and physics through lectures and hands-on observing sessions.
 
-- *2018*. **Full-Stack Software Developer**. Designed and developed the official webpage for a psychiatric center in Athens, Greece, at Althaia Psychiatric Centre.
+- *2018*. **CS Teacher** at Social Hackers Academy, Athens. Built web and mobile applications as part of a digital literacy curriculum for refugees.
 
-- *10/2013 - Present*. **General Director & CEO**. I serve as an astronomy interpreter and public speaker, overseeing financial resources and logistics at the Astronomical Observatory Francisco José de Caldas, Colombia.
+- *2018*. **Full-Stack Developer** at Althaia Psychiatric Centre, Athens. Designed and developed the institution's official website.
+
+- *01/2016 - 01/2019*. **IT Technician** at University of Cauca, Colombia. Managed IT infrastructure and network systems across faculties; implemented security protocols to ensure reliability and institutional compliance.
+
 ### EDUCATION
 
-- *2020 - 2022*. **Joint Master on Image Processing & Computer Vision (IPCV) - Awarded Erasmus Mundus Joint Master Scholarship** [[**IPCV**](http://ipcv.eu/)][[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]. Awarded a full scholarship from the Erasmus Mundus Joint Master (EMJM). This program involved collaboration among The University of Bordeaux, the Autonomous University of Madrid, and Peter's Catholic University of Pazmany. **Location**: Spain - France - Hungary.
-- *01/2022 - 08/2022*. **Machine Learning Intern** at Harvard University. I contributed to the Hanspeter Pfister Lab by improving instance segmentation and deep clustering models for cancer cell discovery, utilizing the FASRC Computing Cluster (HPC). I had the privilege of collaborating with esteemed researchers such as Siyu Huang, Edward Novikov, and Hanspeter Pfister at the *Harvard John A. Paulson School of Engineering and Applied Sciences*.
-- *2020*. **Data Scientist** at [Correlation One. DS4A/Colombia 4.0](https://www.credential.net/de069f81-eb59-48eb-96d6-337d9561632a#gs.o9m4gx). Data Science for All (DS4A)/Colombia 2.0, highly tailored program focused on Data Science and Artificial Intelligence - Sponsored by The Ministery of Information and Communication Technologies of Colombia (MinTIC) with Correlation One
+- *2020 - 2022*. **Joint Master in Image Processing & Computer Vision (IPCV)** — Erasmus Mundus Joint Master Scholarship. **[[IPCV](http://ipcv.eu/)]** **[[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]**. Full scholarship (€48,000+). Collaborative program across the University of Bordeaux (France), Autonomous University of Madrid (Spain), and Pázmány Péter Catholic University (Hungary).
 
-- *2014 - 2019*. **B.A. in Electronics and Telecommunications Engineering** from the University of Cauca. **Ranking**: Top 3%.
+- *2020*. **Data Science for All (DS4A)/Colombia 4.0** — [Correlation One](https://www.credential.net/de069f81-eb59-48eb-96d6-337d9561632a#gs.o9m4gx). Intensive program in Data Science and AI, sponsored by the Ministry of Information and Communication Technologies of Colombia (MinTIC).
+
+- *2014 - 2019*. **B.Eng. in Electronics and Telecommunications Engineering** from the University of Cauca, Colombia. **Ranking**: Top 3%.
 <hr />
 
 ### AWARDS
 
-- *2024*. **Meta Grant Award Phase 2 Finalist**: **[[Link](https://llama.meta.com/llama-impact-grants/#round1:~:text=Massachusetts%20Institute%20of%20Technology)]**
-- *2023*. Google GCP grant winner for quantum embedding ML image classification  . **[[Code](https://github.com/sebasmos/QuantumVE)]**
-- *2022*. Hack2hack first place biodiversity winner. **[[Link](https://www.hackforearth.com/cop27/winners#:~:text=Sebastian%20Andres%20Cajas%20%2C)]**
+- *2024*. **Meta Grant Award Phase 2 Finalist**. **[[Link](https://llama.meta.com/llama-impact-grants/#round1:~:text=Massachusetts%20Institute%20of%20Technology)]**
+- *2023 - 2026*. **Google GCP Grant Winner** for quantum embedding ML image classification. **[[Code](https://github.com/sebasmos/QuantumVE)]**
+- *2022*. **Hack2Hack First Place Biodiversity Winner**. **[[Link](https://www.hackforearth.com/cop27/winners#:~:text=Sebastian%20Andres%20Cajas%20%2C)]**
 - *2021*. **OpenCV 2021 Competition Phase 1 Winner**: Finalist in the world's largest spatial AI competition, sponsored by Microsoft Azure and Intel, chosen from over 1,400 submissions, earning 6 OAK-D devices.
-- *2021*. **Best President, Aerospace & Electronics Systems Society Colombia**: Recognized as AESS Best President 2020, with the chapter also awarded as the best student chapter in Colombia. **[[Link](https://periodicovirtual.com/estudiantes-de-unicauca-apuestan-por-lanzar-satelite-al-espacio/)]**
-- *2021*. **€5,000 Awarded Project for Dengue Forecasting**: *Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite in Collaboration with MIT Critical Data Colombia*. Supported by ESA Network of Resources Initiative. **[[Data](https://physionet.org/content/multimodal-satellite-data/1.0.0/)]** **[[Slides](https://eo4society.esa.int/wp-content/uploads/2023/06/towards-a-smart-eco-epidemiological-model-of-dengue-in-colombia-using-satellite.pdf)]** **[[HuggingFace Mantainer](https://huggingface.co/MITCriticalData)]** 
-- *2020*. **Erasmus Mundus Scholarship** for MAIA & IPCV programs (€48000+). **[[Link](http://www.unicauca.edu.co/portaleningles/news/unicaucas-graduate-obtains-erasmus-mundus-scholarship-one-highest-scores-program)]**
-- *2020*. **Embry Riddle MSc in Aerospace Engineering Scholarship**: Graduate Teaching Assistantship in the Advanced Dynamics and Control Lab, with projects sponsored by NASA & SBIR/STTR Technologies.
-- *2020*. **Hult-Prize Regional Awarded Finalist** in Popayán and Monterrey, Mexico.
-- *2020*. **First Place Winner in IEEE R9 Humanitarian Activities**: Ozone Purifier Project (US $5,200), awarded for creating a web and mobile application. Co-authored with Giovanna Ramirez, Germán Cambuya, Santiago Chicangana, Camilo Segura, and Jesús Gurrute.
-- *2020*. **First Prize in IEEE SIGHTS COVID-19**: Developed a mechanical ventilator (US $3,914 award). **[[Link](https://aesscolombia.blogspot.com/2021/02/ayudar-respirar-la-humanidad.html)]**
-- *2020*. Data Science for All (DS4A) winner, joining the AI task force of the Colombian government (2020). organized by #MinTIC and #CorrelationOne.
+- *2021*. **Best President, IEEE AESS Colombia**: Recognized as AESS Best President 2020; chapter awarded best student chapter in Colombia. **[[Link](https://periodicovirtual.com/estudiantes-de-unicauca-apuestan-por-lanzar-satelite-al-espacio/)]**
+- *2021*. **€5,000 ESA-Funded Project for Dengue Forecasting**: *Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite Imagery*. In collaboration with MIT Critical Data. Supported by ESA Network of Resources Initiative. **[[Data](https://physionet.org/content/multimodal-satellite-data/1.0.0/)]** **[[Slides](https://eo4society.esa.int/wp-content/uploads/2023/06/towards-a-smart-eco-epidemiological-model-of-dengue-in-colombia-using-satellite.pdf)]** **[[HuggingFace](https://huggingface.co/MITCriticalData)]**
+- *2020*. **Erasmus Mundus Scholarship** for MAIA & IPCV programs (€48,000+). **[[Link](http://www.unicauca.edu.co/portalesingles/news/unicaucas-graduate-obtains-erasmus-mundus-scholarship-one-highest-scores-program)]**
+- *2020*. **Embry-Riddle MSc in Aerospace Engineering Scholarship**: Graduate Teaching Assistantship in the Advanced Dynamics and Control Lab (projects sponsored by NASA & SBIR/STTR Technologies).
+- *2020*. **Hult Prize Regional Finalist** in Popayán and Monterrey, Mexico.
+- *2020*. **First Place, IEEE R9 Humanitarian Activities**: Ozone Purifier Project (US $5,200).
+- *2020*. **First Prize, IEEE SIGHTS COVID-19**: Mechanical ventilator development (US $3,914). **[[Link](https://aesscolombia.blogspot.com/2021/02/ayudar-respirar-la-humanidad.html)]**
+- *2020*. **Data Science for All (DS4A) Winner**, joining the AI task force of the Colombian government, organized by MinTIC and Correlation One.
 - *2020*. **Best Impact Global Award for COVID-19** at AAPM Hackathon. **[[Link](https://www.unicauca.edu.co/versionP/noticias/interinstitucional/unicaucanos-reconocidos-con-el-premio-la-soluci%C3%B3n-de-mayor-impacto-global)]**
-- *2019*. **Excellence Award in the Regional Huawei ICT Competition** in Bogotá, Colombia.
-- *2016 - 2017*. **Half Honorific Scholarship** for B.S. at the University of Cauca.
-- *2008 - 2013*. **Merit Scholarship** awarded by Technical Comfacauca Secondary School.
+- *2019*. **Excellence Award, Regional Huawei ICT Competition**, Bogotá, Colombia.
 <hr />
 
 ### THESIS
 
-- **Logo verification and characterization with machine learning for document analysis**. **[[Online](https://diplomamunka.ppke.hu/id/eprint/8551/)]**. EcoVadis - Paris, France.
+- **Logo verification and characterization with machine learning for document analysis**. EcoVadis, Paris, France. **[[Online](https://diplomamunka.ppke.hu/id/eprint/8551/)]**
 
-- **Mechanism for the characterization of motion artifacts in photophethysmography signals under low-intensity movements for tachycardia and bradycardia eventsTachycardia and Bradycardia Detection using Wearable Photoplethysmography under low-intensity Motion Artifacts**. **[[Online](http://repositorio.unicauca.edu.co:8080/xmlui/handle/123456789/7802)]**. University of Cauca - Popayan, Colombia. 
-
+- **Mechanism for the characterization of motion artifacts in photoplethysmography signals under low-intensity movements for tachycardia and bradycardia detection**. University of Cauca, Popayán, Colombia. **[[Online](http://repositorio.unicauca.edu.co:8080/xmlui/handle/123456789/7802)]**
 
 ---
 
 ### PUBLICATIONS
 
-* Aspis, M., **S. A. Cajas**, Suárez-Cetrulo, A. L., & Carbajo, R. S. (2025). DriftMoE: A Mixture of Experts Approach to Handle Concept Drifts. arXiv preprint arXiv:2507.18464. **\[[Paper](https://arxiv.org/abs/2507.18464)]**
+#### 2026
 
-* **S. A. Cajas**, L. F. Torres Torres, M. Bifulco, C. A. Duran, C. Bosch and R. S. Carbajo, "Embedding-Aware Quantum-Classical SVMs for Scalable Quantum Machine Learning," 2025. **\[[Paper](https://arxiv.org/abs/2508.00024)]**
+* **S. A. Cajas Ordóñez**, R. Castro, L. A. Celi, R. Delos Reyes, J. Engelmann, et al. "Beyond Overconfidence: Embedding Curiosity and Humility for Ethical Medical AI." *PLOS Digital Health*, 5(1), e0001013, 2026.
+  **\[[Paper](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001013)]** **\[[Code](https://github.com/sebasmos/bodhi-llms)]**
 
-* **S. A. Cajas**, et al. Humility and curiosity in human–AI systems for health care. *The Lancet*, 2025, vol. 406, no 10505, p. 804-805. **\[[Paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2825%2901626-5/fulltext)]**
+* J. Arslan, K. Benke, **S. A. Cajas Ordóñez**, R. Castro, L. A. Celi, G. A. Cruz-Suarez, et al. "Engineering Framework for Curiosity-Driven and Humble AI in Clinical Decision Support." *BMJ Health & Care Informatics*, 2026.
+  **\[[Paper](https://pubmed.ncbi.nlm.nih.gov/41871866/)]** **\[[Pre-print](https://www.medrxiv.org/content/10.1101/2026.02.06.26345664)]** **\[[MIT News](https://news.mit.edu/2026/creating-humble-ai-0324)]**
 
-* G. J. Baker, E. Novikov, S. Coy, Y.-A. Chen, C. B. Hug, Z. Ahmed, **S. A. Cajas**, et al. "Morphology-aware profiling of highly multiplexed tissue images using variational autoencoders," *bioRxiv*. **\[[Paper](https://www.biorxiv.org/content/10.1101/2025.06.23.661064v1)]**
+#### 2025
 
-* J. Garcia, X. Masip-Bruin, A. Giannopoulos, P. Trakadas, **S. A. Cajas**, et al. “ICOS: An Intelligent MetaOS for the Continuum”, MECC 2025, ACM EuroSys 2025. **\[[Paper](https://dl.acm.org/doi/10.1145/3721889.3721929)]**
+* **S. A. Cajas Ordóñez**, L. F. Torres Torres, M. J. Meni, C. A. D. Paredes, E. Arazo, C. Bosch, et al. "Uncertainty Makes It Stable: Curiosity-Driven Quantized Mixture-of-Experts." arXiv preprint arXiv:2511.11743, 2025.
+  **\[[Paper](https://arxiv.org/abs/2511.11743)]**
 
-* **S. A. Cajas**, J. Samanta, A. L. Suárez-Cetrulo, R. S. Carbajo (2024). Adaptive Machine Learning for Resource-Constrained Environments. *DELTA 2024, LNCS, Springer.*
-  **\[[Online](https://link.springer.com/chapter/10.1007/978-3-031-82346-6_1)] \[[Pre-print](https://arxiv.org/abs/2503.18634)]**
+* **S. A. Cajas Ordóñez**, L. F. Torres Torres, M. Bifulco, C. A. Duran, C. Bosch, and R. S. Carbajo. "Embedding-Aware Quantum-Classical SVMs for Scalable Quantum Machine Learning." *CEUR Workshop Proceedings*, Vol. 4153, 2025.
+  **\[[Paper](https://ceur-ws.org/Vol-4153/paper21.pdf)]** **\[[arXiv](https://arxiv.org/abs/2508.00024)]**
 
-* Moukheiber, D., Restrepo, **S. A. Cajas**, & L. A. Celi (2024). A multimodal framework for extraction and fusion of satellite images and public health data. *Scientific Data, 11(1), 634.* **\[[Paper](https://www.nature.com/articles/s41597-024-03366-1)]**
+* **S. A. Cajas Ordóñez**, M. Lange, T. M. Lunde, M. J. Meni, and A. E. Premo. "Humility and Curiosity in Human–AI Systems for Health Care." *The Lancet*, 406(10505), 804–805, 2025.
+  **\[[Paper](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2825%2901626-5/fulltext)]**
 
-* **S. A. Cajas**, Restrepo, D., Moukheiber, D., Kuo, K. T., Wu, C., et al. (2024). A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia (version 1.0.0). *PhysioNet.*
-  **\[[Paper](https://doi.org/10.13026/xr5s-xe24)] \[[Code](https://github.com/sebasmos/satellite.extractor)]**
+* **S. A. Cajas Ordóñez**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo. "Intelligent Edge Computing and Machine Learning: A Survey of Optimization and Applications." *Future Internet*, 17(9), 417, 2025.
+  **\[[Paper](https://www.mdpi.com/1999-5903/17/9/417)]**
 
-* Kuo, K. T., Moukheiber, **S. A. Cajas**, Restrepo, D., et al. (2024). DengueNet: Dengue Prediction using Spatiotemporal Satellite Imagery for Resource-Limited Countries. arXiv preprint. **\[[Paper](https://arxiv.org/abs/2401.11114)]**
+* **S. A. Cajas Ordóñez**, J. Samanta, A. L. Suárez-Cetrulo, R. Ghosh, et al. "An Open-Source AI-as-a-Service Framework for Federated, Efficient, and Drift-Robust Learning in the Continuum Edge–Cloud." *IEEE Access*, 14, 26265–26277, 2025.
+  **\[[Paper](https://ieeexplore.ieee.org/document/10879583)]**
 
-* K. Xie, S. Huang, **S. A. Cajas**, H. Pfister, D. Wei (2024). "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation," IEEE ISBI 2024. **\[[Paper](https://ieeexplore.ieee.org/abstract/document/10635833)]**
+* M. Aspis, **S. A. Cajas Ordóñez**, A. L. Suárez-Cetrulo, and R. S. Carbajo. "DriftMoE: A Mixture of Experts Approach to Handle Concept Drifts." arXiv preprint arXiv:2507.18464, 2025.
+  **\[[Paper](https://arxiv.org/abs/2507.18464)]**
 
-* Restrepo, D., Wu, C., **S. A. Cajas**, Nakayama, L. F., Celi, L. A., & López, D. M. (2024). Multimodal deep learning for low-resource settings: A vector embedding alignment approach for healthcare applications. *medRxiv.* **\[[Paper](https://www.medrxiv.org/content/10.1101/2024.06.03.24308401v1.full)]**
+* G. J. Baker, E. Novikov, S. Coy, Y.-A. Chen, C. B. Hug, Z. Ahmed, **S. A. Cajas Ordóñez**, et al. "Morphology-Aware Profiling of Highly Multiplexed Tissue Images Using Variational Autoencoders." *bioRxiv*, 2025.
+  **\[[Paper](https://www.biorxiv.org/content/10.1101/2025.06.23.661064v1)]**
 
-* A. L. Suárez-Cetrulo, **S. A. Cajas**, J. Samanta (2023). "Intelligence Layer - ICOS project Architecture White Paper". **\[[Paper](https://www.icos-project.eu/)]**
+* J. Garcia, X. Masip-Bruin, A. Giannopoulos, P. Trakadas, **S. A. Cajas Ordóñez**, et al. "ICOS: An Intelligent MetaOS for the Continuum." *Proceedings of the 2nd International Workshop on MetaOS (MECC 2025), ACM EuroSys*, 2025.
+  **\[[Paper](https://dl.acm.org/doi/10.1145/3721889.3721929)]**
 
-* **S. A. Cajas**, Astaiza, P., Garcia-Chicangana, D. S., Segura, C., Lopéz, D. M. (2021). ECG Arrhythmia Classification Using Non-Linear Features and CNNs. *Computing in Cardiology.*
-  **\[[Paper](https://ieeexplore.ieee.org/document/9344175)] \[[Code](https://github.com/sebasmos/CardioLux)]**
+* A. Barceló, **S. A. Cajas Ordóñez**, J. Samanta, A. L. Suárez-Cetrulo, R. Ghosh, et al. "Offloading Artificial Intelligence Workloads Across the Computing Continuum by Means of Active Storage Systems." *Future Generation Computer Systems*, 108271, 2025.
+  **\[[Paper](https://www.sciencedirect.com/science/article/pii/S0167739X25000676)]** **\[[Code](https://github.com/sebasmos/EdgeAI-Continuum)]**
 
-* **S. A. Cajas**, Landínez, M. A., López, D. M. (2020). Modeling of motion artifacts on PPG signals for heart-monitoring using wearable devices. *15th Int. Symposium on MIPA, SPIE.*
-  **\[[Paper](https://doi.org/10.1117/12.2540554)] \[[Code](https://github.com/sebasmos/PPGpeakDetection)]**
+* C. Y. Chen, R. Abulibdeh, A. Asgari, **S. A. Cajas Ordóñez**, L. A. Celi, D. Goode, et al. "Algorithms Trained on Normal Chest X-rays Can Predict Health Insurance Types." arXiv preprint arXiv:2511.11030, 2025.
+  **\[[Paper](https://arxiv.org/abs/2511.11030)]**
 
-* **S. A. Cajas** (2020). "Colcart - Web and mobile application to market and produce organic products in the department of Cauca". **\[[Online](https://es.calameo.com/read/005735784f4cb87016fd4)]**
+* G. D. Agreda, C. A. D. Paredes, M. B. Samboni, J. A. Andrade, and **S. A. Cajas Ordóñez**. "Bridging Theory and Practice in Quantum Game Theory: Optimized Implementation of the Battle of the Sexes with Error Mitigation on NISQ Hardware." arXiv preprint arXiv:2508.09050, 2025.
+  **\[[Paper](https://arxiv.org/abs/2508.09050)]**
 
-* **S. A. Cajas** (2020). "Design and implementation of a satellite model for the Ibero-American Canned Satellite Competition". **\[[Online](https://en.calameo.com/read/0057357846a5bdf72578b)]**
+* C. A. D. Paredes, J. A. G. Obando, **S. A. Cajas Ordóñez**, and C. Sanchez. "Urbanphony-3-CNN: A Convolutional Neural Network for Identifying the Urban Soundscape Taxonomy in Spectrograms Generated from Audios of Historic Cities." *Ingeniería e Investigación*, 45(2), 12, 2025.
+  **\[[Paper](https://revistas.unal.edu.co/index.php/ingeinam/article/view/112948)]**
+
+* V. Aher, E. S. Villa, L. V. G. Mosquera, L. F. T. Torres, V. K. Verma, and **S. A. Cajas Ordóñez**. "Intensity-Based Prompt Generation for Multi-Modality 3D Medical Image Segmentation." *CVPR 2025 Workshop: Foundation Models for 3D Biomedical Image Segmentation*, 2025.
+  **\[[Paper](https://arxiv.org/abs/2504.06448)]**
+
+* I. R. Alberto, L. A. Celi, C. Corti, J. Ellen, A. Fiske, M. Kebede, G. H. Kwak, **S. A. Cajas Ordóñez**, et al. "The Rise of 'Vibe Science': How AI Threatens Scientific Rigor." *TechRxiv preprint*, 2025.
+  **\[[Pre-print](https://www.techrxiv.org/users/953594/articles/1322774-the-rise-of-vibe-science-how-ai-threatens-scientific-rigor)]**
+
+#### 2024
+
+* D. Moukheiber, D. Restrepo, **S. A. Cajas Ordóñez**, M. P. A. Montoya, L. A. Celi, K. T. Kuo, et al. "A Multimodal Framework for Extraction and Fusion of Satellite Images and Public Health Data." *Scientific Data (Nature)*, 11(1), 634, 2024.
+  **\[[Paper](https://www.nature.com/articles/s41597-024-03366-1)]**
+
+* **S. A. Cajas Ordóñez**, D. Restrepo, D. Moukheiber, K. T. Kuo, C. Wu, et al. "A Multi-Modal Satellite Imagery Dataset for Public Health Analysis in Colombia" (version 1.0.0). *PhysioNet*, 2024.
+  **\[[Paper](https://doi.org/10.13026/xr5s-xe24)]** **\[[Code](https://github.com/sebasmos/satellite.extractor)]**
+
+* **S. A. Cajas Ordóñez**, J. Samanta, A. L. Suárez-Cetrulo, and R. S. Carbajo. "Adaptive Machine Learning for Resource-Constrained Environments." *DELTA 2024, LNCS, Springer*, 2024.
+  **\[[Paper](https://link.springer.com/chapter/10.1007/978-3-031-82346-6_1)]** **\[[Pre-print](https://arxiv.org/abs/2503.18634)]** **\[[Code](https://github.com/sebasmos/AML4CPU)]**
+
+* K. T. Kuo, D. Moukheiber, **S. A. Cajas Ordóñez**, D. Restrepo, et al. "DengueNet: Dengue Prediction Using Spatiotemporal Satellite Imagery for Resource-Limited Countries." arXiv preprint arXiv:2401.11114, 2024.
+  **\[[Paper](https://arxiv.org/abs/2401.11114)]**
+
+* K. Xie, S. Huang, **S. A. Cajas Ordóñez**, H. Pfister, and D. Wei. "S3-TTA: Scale-Style Selection for Test-Time Augmentation in Biomedical Image Segmentation." *IEEE International Symposium on Biomedical Imaging (ISBI)*, 1–5, 2024.
+  **\[[Paper](https://ieeexplore.ieee.org/abstract/document/10635833)]**
+
+* D. Restrepo, C. Wu, **S. A. Cajas Ordóñez**, L. F. Nakayama, L. A. Celi, and D. M. López. "Multimodal Deep Learning for Low-Resource Settings: A Vector Embedding Alignment Approach for Healthcare Applications." *arXiv preprint arXiv:2406.02601*, 2024.
+  **\[[Paper](https://www.medrxiv.org/content/10.1101/2024.06.03.24308401v1.full)]**
+
+#### 2023
+
+* A. L. Suárez-Cetrulo, **S. A. Cajas Ordóñez**, and J. Samanta. "Intelligence Layer — ICOS Project Architecture White Paper." 2023.
+  **\[[Paper](https://www.icos-project.eu/whitepaper-1)]**
+
+#### 2021
+
+* **S. A. Cajas Ordóñez**, P. Astaiza, D. S. Garcia-Chicangana, C. Segura, and D. M. López. "ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks." *Computing in Cardiology*, 1–4, 2021.
+  **\[[Paper](https://ieeexplore.ieee.org/document/9344175)]** **\[[Code](https://github.com/sebasmos/CardioLux)]**
+
+* J. S. Osorio-Valencia, D. Restrepo, **S. A. Cajas Ordóñez**, D. Moukheiber, et al. "Towards the Implementation of Eco-epidemiological Models for Dengue in Colombia Using Machine Learning and Satellite Images: Policy Advocacy and Open Data Repositories." *Biomédica: Revista del Instituto Nacional de Salud*, 41, 2021.
+
+#### 2020
+
+* **S. A. Cajas Ordóñez**, M. A. Landínez, and D. M. López. "Modeling of Motion Artifacts on PPG Signals for Heart-Monitoring Using Wearable Devices." *15th International Symposium on Medical Information Processing and Analysis, SPIE*, 2020.
+  **\[[Paper](https://doi.org/10.1117/12.2540554)]** **\[[Code](https://github.com/sebasmos/PPGpeakDetection)]**
 
 <hr />
 
 
 ### SEMINARS & BLOGS
 
-- *2025. Towards a functional continuum operating system (ICOS)*: **[[ICOS-Project](https://www.icos-project.eu/docs/)]** 
-- *2024*. *Poster*. Adaptive Machine Learning for Resource-Constrained Environments. Discovering Drift Phenomena in Evolving Landscape (DELTA 2024), Workshop at ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (KDD 2024), Barcelona. CeADAR Ireland. **[[Online](https://doi.org/10.13140/RG.2.2.24508.24966)]**
-- *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends". By CeADAR: Sebastián Andrés Cajas, Jaydeep Samanta, Andrés L. Suárez-Cetrulo, Ricardo Simón Carbajo. **[[Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge)]**
-- *2021*. *Satellite imagery for NASA Space Apps challenge 2021*. Conference with AESS Unicauca. April 23-25. **[[Conference](https://www.youtube.com/watch?v=YAv9jCqqC-8&t=27s&ab_channel=CAPITULOESTUDIANTILAESS-IEEEUNICAUCA)]**
+- *2025*. "Towards a Functional Continuum Operating System (ICOS)". **[[ICOS-Project](https://www.icos-project.eu/docs/)]**
+- *2024*. *Poster*. "Adaptive Machine Learning for Resource-Constrained Environments." DELTA 2024 Workshop at ACM SIGKDD, Barcelona. **[[Online](https://doi.org/10.13140/RG.2.2.24508.24966)]**
+- *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends." CeADAR / ICOS Project. **[[Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge)]**
+- *2021*. "Satellite Imagery for NASA Space Apps Challenge 2021." Conference with AESS Unicauca. **[[Video](https://www.youtube.com/watch?v=YAv9jCqqC-8&t=27s)]**
 
 <hr />
 
 
 ### VOLUNTEERING AND OPEN-SOURCE PROJECTS
--	2024: Co-Lead, Quantum-Based Initiative for Classification and Optimization **[[Qubico](https://qubico-hack.github.io/)]**.
--	2024: (Book) - Machine Learning for Drifts and Shifts.
--	2024: Vector Embeddings for Quantum Mechanics: Optimizing latent space using quantum computing **[[Code](https://github.com/sebasmos/QuantumVE)]** 
--	2020-present: NASA SpaceApps Leader at University of Cauca and AESS-Unicauca, Colombia. **[[Website](https://github.com/orgs/NASA-SpaceApps/repositories)]** 
--	2020-present: Open-source research Data Scientist, MIT Critical data Mentor. PI: Leo Celi. **[[Website](https://criticaldatathon.github.io/)]**
--	2021-present: Advisory Board Member, Ex-President, Founder of AESS Unicauca, University of Cauca.  **[[Website](https://fiet.unicauca.edu.co/aess/)]**.
--	2020: Satellite Extractor: Dockerized API for downloading satellite imagery, developed with MIT Critical Data Colombia and sponsored by SentinelHub.  **[[Code](https://github.com/sebasmos/satellite.extractor)]** **[[Datasets](https://huggingface.co/MITCriticalData)]** **[[Tutorials](https://github.com/sebasmos/NASASpaceApps_training)]**
--	2020: Computer Vision Researcher (Open-source): Smart indoor positioning system for the visually impaired
--	2020: IEEE Human Sights: Mechanical ventilator project, sponsored by IEEE Humanitarian Sights. **[[Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)]** **[[Code](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)]** **[[Mobile App](https://github.com/sebasmos/PneumApp)]**
--	2020: COVID Mutations Risk Dashboard. **[[Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#)]** **[[Code](https://github.com/sebasmos/Mu_COV19_NASA/tree/main)]**
--	2019: Telecommunications Engineer and Team Lead for satellite communications system in UAM challenge.
--	2016: Italian Teacher Assistant for Refugees in a European Union-supported project, AIESEC in Tortona, Italy.
 
+- 2025–Present: Co-lead, [ShortKit-ML](https://github.com/criticaldata/ShortKit-ML) — open-source toolkit for detecting and mitigating shortcuts and biases in ML embedding spaces. 20+ detection methods, 6 mitigation strategies, unified API, interactive dashboard, and MCP server integration. Published on [PyPI](https://pypi.org/project/shortkit-ml/). **[[Code](https://github.com/criticaldata/ShortKit-ML)]** **[[Docs](https://criticaldata.github.io/ShortKit-ML/)]**
+- 2025–Present: Co-lead, [latent-sr](https://github.com/sebasmos/latent-sr) — Domain-specific latent representations for diffusion-based medical image super-resolution. **[[Code](https://github.com/sebasmos/latent-sr)]**
+- 2025–Present: Creator, [AutoResearch Dojo](https://github.com/sebasmos/autoresearch-dojo) — automated research workflow tools. **[[Code](https://github.com/sebasmos/autoresearch-dojo)]**
+- 2023-2026: Google-funded project lead on quantum-aware vector embeddings for ML image classification, supported by a GCP Research Grant. **[[Code](https://github.com/sebasmos/QuantumVE)]**
+- 2024: Co-Lead, Quantum-Based Initiative for Classification and Optimization. **[[Qubico](https://qubico-hack.github.io/)]**
+- 2024: (Book) Machine Learning for Drifts and Shifts.
+- 2020–Present: NASA SpaceApps Leader at University of Cauca and AESS-Unicauca, Colombia. **[[Website](https://github.com/orgs/NASA-SpaceApps/repositories)]**
+- 2020–Present: Open-source Research Data Scientist, MIT Critical Data Mentor. PI: Leo Celi. **[[Website](https://criticaldata.mit.edu)]**
+- 2021–Present: Advisory Board Member, Ex-President, Founder of AESS Unicauca, University of Cauca. **[[Website](https://fiet.unicauca.edu.co/aess/)]**
+- 2020: Satellite Extractor: Dockerized API for downloading satellite imagery, developed with MIT Critical Data Colombia, sponsored by SentinelHub. **[[Code](https://github.com/sebasmos/satellite.extractor)]** **[[Datasets](https://huggingface.co/MITCriticalData)]** **[[Tutorials](https://github.com/sebasmos/NASASpaceApps_training)]**
+- 2020: Computer Vision Researcher (Open-source): Smart indoor positioning system for the visually impaired.
+- 2020: IEEE Human Sights: Mechanical ventilator project, sponsored by IEEE Humanitarian Sights. **[[Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)]** **[[Code](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)]** **[[Mobile App](https://github.com/sebasmos/PneumApp)]**
+- 2020: COVID Mutations Risk Dashboard. **[[Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#)]** **[[Code](https://github.com/sebasmos/Mu_COV19_NASA/tree/main)]**
+- 2019: Telecommunications Engineer and Team Lead for satellite communications system in UAM challenge.
+- 2016: Italian Teacher Assistant for Refugees in a European Union-supported project, AIESEC in Tortona, Italy.
 
 <hr />
 
 
-### Technical Skills & Expertise
+### TECHNICAL SKILLS & EXPERTISE
 
-
-- **Programming**: Python/C++ (8+ yrs), Java, SQL, TypeScript, Shell (5+ yrs). *OOP, API Dev*.
-- **Data Engineering**: PostgreSQL, MySQL, MongoDB, ETL, large-scale pipelines, dataset design
-- **Machine Learning & AI**: PyTorch, TensorFlow, Hugging Face, 🤗 Datasets, model training & optimization
-- **LLM & NLP**: Prompt engineering, fine-tuning (LoRA, PEFT), in-context learning, RAG, LLaMA, GPT, Mistral, spaCy, NLTK, LangChain.
-- **Multimodal Learning**: CLIP, BLIP, ViLT, writing stuff about deep multimodal fusion.
-- **Cloud & DevOps**: AWS, GCP, Azure, Oracle, CI/CD, scalable AI deployments
-- **MLOps**: Docker (deployment); Kubernetes (orchestration). *Containerization, Microservices*. End-to-end apps with React, Flutter, Ionic; integrated Firebase & IBM Cloud. *SPA, REST APIs*.
-- **Data Engineering**: SQL/NoSQL (MongoDB), data pipelines, data wrangling. *ETL, Big Data, Data Warehousing*.
-- **High-Performance Computing**: HPC clusters (Harvard FASRC), Sonic UCD Cluster, Slurm, parallel training, Distributed Computing.
+- **Programming**: Python, C++ (8+ yrs); SQL, TypeScript, Shell (5+ yrs). OOP, API development.
+- **Machine Learning & AI**: PyTorch, TensorFlow, Hugging Face, scikit-learn, XGBoost, ONNX; model training, optimization, distillation, quantization. Federated learning, online learning, concept drift.
+- **LLM & NLP**: Fine-tuning (LoRA, PEFT, QLoRA), RAG, prompt engineering, in-context learning; LLaMA, GPT, Mistral, DeepSeek; LangChain, vLLM, spaCy.
+- **Computer Vision**: Instance segmentation, image translation, multi-modal fusion (CLIP, BLIP, ViLT), satellite imagery analysis.
+- **Quantum Machine Learning**: Quantum-classical hybrid models, variational quantum circuits, Qiskit, PennyLane.
+- **Data Engineering**: PostgreSQL, MySQL, MongoDB; ETL pipelines, large-scale dataset design and curation.
+- **Cloud & DevOps**: AWS, GCP, Azure, Oracle; Docker, Kubernetes, CI/CD, Terraform; scalable AI deployments.
+- **High-Performance Computing**: HPC clusters (Harvard FASRC, UCD Sonic), SLURM/Singularity, parallel and distributed training.
