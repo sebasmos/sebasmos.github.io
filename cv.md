@@ -23,14 +23,18 @@ August 2026
   - Built and sustained the MIT Critical Data community across 20+ countries, spanning the Americas, Europe, Africa, and Asia.
   - Lead research programs across three continents, designing human-AI systems and AI agents for global health.
   - Driven 20+ open-source projects spanning clinical NLP, satellite-based disease surveillance, privacy-preserving de-identification, and multi-modal learning for low-resource settings.
-  - Creator of [BODHI](https://criticaldata.github.io/bodhi/), an engineering framework for curiosity-driven AI in clinical decision support — achieving 97.3% rate of appropriate clarifying questions vs 7.8% baseline.
+  - Creator of [BODHI](https://criticaldata.github.io/bodhi/), an engineering framework for curiosity-driven AI in clinical decision support, achieving 97.3% rate of appropriate clarifying questions vs 7.8% baseline.
   - Work published in *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]**
 
-- *09/2022 - 12/2025*. **Senior Data Scientist** (AI Scientist II, 2022–2024) at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
+- *2024 - 12/2025*. **Senior Data Scientist** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
   - Architected LLM pipelines (LLaMA, DeepSeek, Mistral) for enterprise document classification and summarization, reducing manual processing time by over 60%.
   - Designed and deployed multimodal, online, and federated learning systems for edge AI at continental scale across 8 EU partner organizations.
   - Delivered production AI APIs and MLOps workflows on HPC infrastructure using Docker, Kubernetes, and SLURM/Singularity.
   - Published 6 papers and co-authored 1 EU architecture white paper during this period.
+
+- *09/2022 - 2024*. **AI Scientist II** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Key contributions include:
+  - Built and validated ML solutions spanning federated learning, reinforcement learning, and computer vision for EU innovation projects.
+  - Owned end-to-end delivery of data pipelines, model training, and API integration for the ICOS platform, improving testing and deployment workflows.
 
 - *01/2022 - 01/2024*. **Fellow in Computer Science** at [Harvard University](https://seas.harvard.edu). Key contributions include:
   - Led development of computer vision and deep learning algorithms for single-cell imaging (CyCIF) using high-dimensional microscopy in the [Visual Computing Group](https://vcg.seas.harvard.edu) and Harvard Medical School's Lab of Systems Pharmacology.
@@ -54,17 +58,17 @@ August 2026
 
 ### EDUCATION
 
-- *2020 - 2022*. **Joint Master in Image Processing & Computer Vision (IPCV)** — Erasmus Mundus Joint Master Scholarship. **[[IPCV](http://ipcv.eu/)]** **[[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]**. Full scholarship. Collaborative program across the University of Bordeaux (France), Autonomous University of Madrid (Spain), and Pázmány Péter Catholic University (Hungary).
+- *2020 - 2022*. **Joint Master in Image Processing & Computer Vision (IPCV)**, Erasmus Mundus Joint Master Scholarship. **[[IPCV](http://ipcv.eu/)]** **[[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]**. Full scholarship. Collaborative program across the University of Bordeaux (France), Autonomous University of Madrid (Spain), and Pázmány Péter Catholic University (Hungary).
 
-- *2020*. **Data Science for All (DS4A)/Colombia 4.0** — [Correlation One](https://www.credential.net/de069f81-eb59-48eb-96d6-337d9561632a#gs.o9m4gx). Intensive program in Data Science and AI, sponsored by the Ministry of Information and Communication Technologies of Colombia (MinTIC).
+- *2020*. **Data Science for All (DS4A)/Colombia 4.0**, [Correlation One](https://www.credential.net/de069f81-eb59-48eb-96d6-337d9561632a#gs.o9m4gx). Intensive program in Data Science and AI, sponsored by the Ministry of Information and Communication Technologies of Colombia (MinTIC).
 
 - *2014 - 2019*. **B.Eng. in Electronics and Telecommunications Engineering** from the University of Cauca, Colombia. **Ranking**: Top 3%.
 <hr />
 
 ### AWARDS
 
-- *2026*. **Anthropic AI for Science Award** — project lead, *Discovering How Clinical AI Fails*, with MIT Critical Data.
-- *2026*. **AWS Cloud Credits Research Grant** — project lead, *BODHI: Culturally-Adaptive Epistemic AI with Clinical Applications*, with MIT Critical Data.
+- *2026*. **Anthropic AI for Science Award**: project lead, *Discovering How Clinical AI Fails*, with MIT Critical Data.
+- *2026*. **AWS Cloud Credits Research Grant**: project lead, *BODHI: Culturally-Adaptive Epistemic AI with Clinical Applications*, with MIT Critical Data.
 - *2024*. **Meta Grant Award Phase 2 Finalist**. **[[Link](https://llama.meta.com/llama-impact-grants/#round1:~:text=Massachusetts%20Institute%20of%20Technology)]**
 - *2023 - 2026*. **Google GCP Grant Winner** for quantum embedding ML image classification. **[[Code](https://github.com/sebasmos/QuantumVE)]**
 - *2022*. **Hack2Hack First Place Biodiversity Winner**. **[[Link](https://www.hackforearth.com/cop27/winners#:~:text=Sebastian%20Andres%20Cajas%20%2C)]**
@@ -180,7 +184,7 @@ August 2026
 
 #### 2023
 
-* A. L. Suárez-Cetrulo, **S. A. Cajas Ordóñez**, and J. Samanta. "Intelligence Layer — ICOS Project Architecture White Paper." 2023.
+* A. L. Suárez-Cetrulo, **S. A. Cajas Ordóñez**, and J. Samanta. "Intelligence Layer: ICOS Project Architecture White Paper." 2023.
   **\[[Paper](https://www.icos-project.eu/whitepaper-1)]**
 
 #### 2021
@@ -200,7 +204,7 @@ August 2026
 
 ### SEMINARS & BLOGS
 
-- *2026*. **MIT News**: "Creating humble AI" — coverage of the curiosity-driven and humble AI work with MIT Critical Data. **[[MIT News](https://news.mit.edu/2026/creating-humble-ai-0324)]**
+- *2026*. **MIT News**: "Creating humble AI": coverage of the curiosity-driven and humble AI work with MIT Critical Data. **[[MIT News](https://news.mit.edu/2026/creating-humble-ai-0324)]**
 - *2025*. "Towards a Functional Continuum Operating System (ICOS)". **[[ICOS-Project](https://www.icos-project.eu/docs/)]**
 - *2024*. *Poster*. "Adaptive Machine Learning for Resource-Constrained Environments." DELTA 2024 Workshop at ACM SIGKDD, Barcelona. **[[Online](https://doi.org/10.13140/RG.2.2.24508.24966)]**
 - *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends." CeADAR / ICOS Project. **[[Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge)]**
@@ -211,7 +215,7 @@ August 2026
 
 ### VOLUNTEERING AND OPEN-SOURCE PROJECTS
 
-- 2026: Workshop & Scientific Content Lead, [DubLINK AI in Healthcare LLM-athon](https://dublin.mitcriticaldata.com/) — MIT Critical Data, PLOS Digital Health, and MedWrite.ai. Workday Dublin, September 19, 2026.
+- 2026: Workshop & Scientific Content Lead, [DubLINK AI in Healthcare LLM-athon](https://dublin.mitcriticaldata.com/) with MIT Critical Data, PLOS Digital Health, and MedWrite.ai. Workday Dublin, September 19, 2026.
 - 2024–Present: Guest Editor & Reviewer, [PLOS Digital Health](https://journals.plos.org/digitalhealth/).
 - 2023-2026: Google-funded project lead on quantum-aware vector embeddings for ML image classification, supported by a GCP Research Grant. **[[Code](https://github.com/sebasmos/QuantumVE)]**
 - 2024: Co-Lead, Quantum-Based Initiative for Classification and Optimization. **[[Qubico](https://qubico-hack.github.io/)]**
