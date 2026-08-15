@@ -17,7 +17,7 @@ August 2026
 
 ### WORK EXPERIENCE
 
-- *01/2026 - Present*. **Senior AI/ML Software Engineer (P4)** at [Workday](https://www.workday.com/), Dublin, Ireland. Building and scaling human-AI systems for the Growth Team, combining LLM orchestration with production-grade software engineering.
+- *01/2026 - Present*. **Senior AI/ML Software Engineer** at [Workday](https://www.workday.com/), Dublin, Ireland. Building and scaling human-AI systems for the Growth Team, combining LLM orchestration with production-grade software engineering.
 
 - *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data under [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) (PI), a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
   - Built and sustained the MIT Critical Data community across 20+ countries, spanning the Americas, Europe, Africa, and Asia.
