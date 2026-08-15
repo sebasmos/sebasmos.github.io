@@ -12,20 +12,21 @@ sebasmos [ad] mit.edu, scajasordonez [ad] gmail.com
 {:.cv-info}
 
 **Curriculum Vitae**  
-April 2026
+August 2026
 <hr />
 
 ### WORK EXPERIENCE
 
-- *01/2026 - Present*. **Senior AI/ML Software Engineer** at [Workday](https://www.workday.com/), Dublin, Ireland. Building human-AI systems for the Growth Team.
+- *01/2026 - Present*. **Senior AI/ML Software Engineer (P4)** at [Workday](https://www.workday.com/), Dublin, Ireland. Building and scaling human-AI systems for the Growth Team, combining LLM orchestration with production-grade software engineering.
 
-- *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data, a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
-  - Lead research programs across three continents (Americas, Europe, Africa) with Dr. Leo Celi, designing human-AI systems and AI agents for global health.
+- *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data under [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) (PI), a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
+  - Built and sustained the MIT Critical Data community across 20+ countries, spanning the Americas, Europe, Africa, and Asia.
+  - Lead research programs across three continents, designing human-AI systems and AI agents for global health.
   - Driven 20+ open-source projects spanning clinical NLP, satellite-based disease surveillance, privacy-preserving de-identification, and multi-modal learning for low-resource settings.
   - Creator of [BODHI](https://criticaldata.github.io/bodhi/), an engineering framework for curiosity-driven AI in clinical decision support — achieving 97.3% rate of appropriate clarifying questions vs 7.8% baseline.
-  - Work published in *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]** **[[BODHI](https://criticaldata.github.io/bodhi/)]**
+  - Work published in *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]**
 
-- *09/2022 - 09/2025*. **Senior AI Scientist** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
+- *09/2022 - 12/2025*. **Senior Data Scientist** (AI Scientist II, 2022–2024) at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
   - Architected LLM pipelines (LLaMA, DeepSeek, Mistral) for enterprise document classification and summarization, reducing manual processing time by over 60%.
   - Designed and deployed multimodal, online, and federated learning systems for edge AI at continental scale across 8 EU partner organizations.
   - Delivered production AI APIs and MLOps workflows on HPC infrastructure using Docker, Kubernetes, and SLURM/Singularity.
@@ -53,7 +54,7 @@ April 2026
 
 ### EDUCATION
 
-- *2020 - 2022*. **Joint Master in Image Processing & Computer Vision (IPCV)** — Erasmus Mundus Joint Master Scholarship. **[[IPCV](http://ipcv.eu/)]** **[[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]**. Full scholarship (€48,000+). Collaborative program across the University of Bordeaux (France), Autonomous University of Madrid (Spain), and Pázmány Péter Catholic University (Hungary).
+- *2020 - 2022*. **Joint Master in Image Processing & Computer Vision (IPCV)** — Erasmus Mundus Joint Master Scholarship. **[[IPCV](http://ipcv.eu/)]** **[[News](https://www.unicauca.edu.co/versionP/noticias/egresados/egresado-de-unicauca-obtiene-grado-de-maestr%C3%ADa-de-triple-titulaci%C3%B3n-de-universidades-de-francia-hung)]**. Full scholarship. Collaborative program across the University of Bordeaux (France), Autonomous University of Madrid (Spain), and Pázmány Péter Catholic University (Hungary).
 
 - *2020*. **Data Science for All (DS4A)/Colombia 4.0** — [Correlation One](https://www.credential.net/de069f81-eb59-48eb-96d6-337d9561632a#gs.o9m4gx). Intensive program in Data Science and AI, sponsored by the Ministry of Information and Communication Technologies of Colombia (MinTIC).
 
@@ -62,17 +63,19 @@ April 2026
 
 ### AWARDS
 
+- *2026*. **Anthropic AI for Science Award** — project lead, *Discovering How Clinical AI Fails*, with MIT Critical Data.
+- *2026*. **AWS Cloud Credits Research Grant** — project lead, *BODHI: Culturally-Adaptive Epistemic AI with Clinical Applications*, with MIT Critical Data.
 - *2024*. **Meta Grant Award Phase 2 Finalist**. **[[Link](https://llama.meta.com/llama-impact-grants/#round1:~:text=Massachusetts%20Institute%20of%20Technology)]**
 - *2023 - 2026*. **Google GCP Grant Winner** for quantum embedding ML image classification. **[[Code](https://github.com/sebasmos/QuantumVE)]**
 - *2022*. **Hack2Hack First Place Biodiversity Winner**. **[[Link](https://www.hackforearth.com/cop27/winners#:~:text=Sebastian%20Andres%20Cajas%20%2C)]**
 - *2021*. **OpenCV 2021 Competition Phase 1 Winner**: Finalist in the world's largest spatial AI competition, sponsored by Microsoft Azure and Intel, chosen from over 1,400 submissions, earning 6 OAK-D devices.
 - *2021*. **Best President, IEEE AESS Colombia**: Recognized as AESS Best President 2020; chapter awarded best student chapter in Colombia. **[[Link](https://periodicovirtual.com/estudiantes-de-unicauca-apuestan-por-lanzar-satelite-al-espacio/)]**
-- *2021*. **€5,000 ESA-Funded Project for Dengue Forecasting**: *Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite Imagery*. In collaboration with MIT Critical Data. Supported by ESA Network of Resources Initiative. **[[Data](https://physionet.org/content/multimodal-satellite-data/1.0.0/)]** **[[Slides](https://eo4society.esa.int/wp-content/uploads/2023/06/towards-a-smart-eco-epidemiological-model-of-dengue-in-colombia-using-satellite.pdf)]** **[[HuggingFace](https://huggingface.co/MITCriticalData)]**
-- *2020*. **Erasmus Mundus Scholarship** for MAIA & IPCV programs (€48,000+). **[[Link](http://www.unicauca.edu.co/portalesingles/news/unicaucas-graduate-obtains-erasmus-mundus-scholarship-one-highest-scores-program)]**
+- *2021*. **ESA-Funded Project for Dengue Forecasting**: *Towards a Smart Eco-epidemiological Model of Dengue in Colombia using Satellite Imagery*. In collaboration with MIT Critical Data. Supported by ESA Network of Resources Initiative. **[[Data](https://physionet.org/content/multimodal-satellite-data/1.0.0/)]** **[[Slides](https://eo4society.esa.int/wp-content/uploads/2023/06/towards-a-smart-eco-epidemiological-model-of-dengue-in-colombia-using-satellite.pdf)]** **[[HuggingFace](https://huggingface.co/MITCriticalData)]**
+- *2020*. **Erasmus Mundus Scholarship** for MAIA & IPCV programs. **[[Link](http://www.unicauca.edu.co/portalesingles/news/unicaucas-graduate-obtains-erasmus-mundus-scholarship-one-highest-scores-program)]**
 - *2020*. **Embry-Riddle MSc in Aerospace Engineering Scholarship**: Graduate Teaching Assistantship in the Advanced Dynamics and Control Lab (projects sponsored by NASA & SBIR/STTR Technologies).
 - *2020*. **Hult Prize Regional Finalist** in Popayán and Monterrey, Mexico.
-- *2020*. **First Place, IEEE R9 Humanitarian Activities**: Ozone Purifier Project (US $5,200).
-- *2020*. **First Prize, IEEE SIGHTS COVID-19**: Mechanical ventilator development (US $3,914). **[[Link](https://aesscolombia.blogspot.com/2021/02/ayudar-respirar-la-humanidad.html)]**
+- *2020*. **First Place, IEEE R9 Humanitarian Activities**: Ozone Purifier Project.
+- *2020*. **First Prize, IEEE SIGHTS COVID-19**: Mechanical ventilator development. **[[Link](https://aesscolombia.blogspot.com/2021/02/ayudar-respirar-la-humanidad.html)]**
 - *2020*. **Data Science for All (DS4A) Winner**, joining the AI task force of the Colombian government, organized by MinTIC and Correlation One.
 - *2020*. **Best Impact Global Award for COVID-19** at AAPM Hackathon. **[[Link](https://www.unicauca.edu.co/versionP/noticias/interinstitucional/unicaucanos-reconocidos-con-el-premio-la-soluci%C3%B3n-de-mayor-impacto-global)]**
 - *2019*. **Excellence Award, Regional Huawei ICT Competition**, Bogotá, Colombia.
@@ -90,8 +93,23 @@ April 2026
 
 #### 2026
 
+* **S. A. Cajas Ordóñez**, A. Munnangi, A. Marzullo, F. Ocampo Osorio, Q. Bui, M. Lange, M. Patel, et al., and L. A. Celi. "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems." arXiv preprint arXiv:2608.03744, 2026.
+  **\[[Paper](https://arxiv.org/abs/2608.03744)]**
+
+* Q. Bui, R. Gorijavolu, D. Proios, et al., **S. A. Cajas Ordóñez**, and L. A. Celi. "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI." arXiv preprint arXiv:2608.01462, 2026.
+  **\[[Paper](https://arxiv.org/abs/2608.01462)]**
+
+* **S. A. Cajas Ordóñez**, F. Ocampo Osorio, D. E. Koh, R. Al Attrach, A. Marzullo, A. Guerra-Adames, J. A. Andrade, S. T. Goh, C.-Y. Chen, R. Gorijavolu, X. Yang, N. D. Hebdon, and L. A. Celi. "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings." arXiv preprint arXiv:2604.24597, 2026.
+  **\[[Paper](https://arxiv.org/abs/2604.24597)]**
+
+* **S. A. Cajas**, A. Marzullo, S. Kapadia, F. Santos, F. Ocampo Osorio, Q. Kong, A. Quarta, P.-C. Kuo, M. Patel, R. I. Rojas Sillery, and L. A. Celi. "ShortKit-ML: A Unified Multi-Perspective Framework for Detecting Shortcut Learning in Medical Imaging Embeddings." Preprint, 2026.
+  **\[[Paper](https://doi.org/10.64898/2026.04.29.26352053)]** **\[[Code](https://github.com/criticaldata/ShortKit-ML)]**
+
 * **S. A. Cajas Ordóñez**, R. Castro, L. A. Celi, R. Delos Reyes, J. Engelmann, et al. "Beyond Overconfidence: Embedding Curiosity and Humility for Ethical Medical AI." *PLOS Digital Health*, 5(1), e0001013, 2026.
   **\[[Paper](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001013)]** **\[[Code](https://github.com/sebasmos/bodhi-llms)]**
+
+* R. Abulibdeh, J. Arslan, **S. A. Cajas Ordóñez**, L. A. Celi, T. M. Lunde, and M. Ramos. "From Policing Authors to Stewarding Science: Governing Artificial Intelligence Across the Scientific Publishing Pipeline in Medical Journals." *MIT Science Policy Review*, Vol. 7, 2026.
+  **\[[Paper](https://sciencepolicyreview.org/2026/07/from-policing-authors-to-stewarding-science-governing-artificial-intelligence-across-the-scientific-publishing-pipeline-in-medical-journals/)]**
 
 * J. Arslan, K. Benke, **S. A. Cajas Ordóñez**, R. Castro, L. A. Celi, G. A. Cruz-Suarez, et al. "Engineering Framework for Curiosity-Driven and Humble AI in Clinical Decision Support." *BMJ Health & Care Informatics*, 2026.
   **\[[Paper](https://pubmed.ncbi.nlm.nih.gov/41871866/)]** **\[[Pre-print](https://www.medrxiv.org/content/10.1101/2026.02.06.26345664)]** **\[[MIT News](https://news.mit.edu/2026/creating-humble-ai-0324)]**
@@ -182,6 +200,7 @@ April 2026
 
 ### SEMINARS & BLOGS
 
+- *2026*. **MIT News**: "Creating humble AI" — coverage of the curiosity-driven and humble AI work with MIT Critical Data. **[[MIT News](https://news.mit.edu/2026/creating-humble-ai-0324)]**
 - *2025*. "Towards a Functional Continuum Operating System (ICOS)". **[[ICOS-Project](https://www.icos-project.eu/docs/)]**
 - *2024*. *Poster*. "Adaptive Machine Learning for Resource-Constrained Environments." DELTA 2024 Workshop at ACM SIGKDD, Barcelona. **[[Online](https://doi.org/10.13140/RG.2.2.24508.24966)]**
 - *2023*. "Unlocking the Potential of Machine Learning at the Edge: Challenges and Future Trends." CeADAR / ICOS Project. **[[Online](https://www.icos-project.eu/potential-of-machine-learning-at-the-edge)]**
@@ -192,17 +211,13 @@ April 2026
 
 ### VOLUNTEERING AND OPEN-SOURCE PROJECTS
 
-- 2025–Present: Co-lead, [ShortKit-ML](https://github.com/criticaldata/ShortKit-ML) — open-source toolkit for detecting and mitigating shortcuts and biases in ML embedding spaces. 20+ detection methods, 6 mitigation strategies, unified API, interactive dashboard, and MCP server integration. Published on [PyPI](https://pypi.org/project/shortkit-ml/). **[[Code](https://github.com/criticaldata/ShortKit-ML)]** **[[Docs](https://criticaldata.github.io/ShortKit-ML/)]**
-- 2025–Present: Co-lead, [latent-sr](https://github.com/sebasmos/latent-sr) — Domain-specific latent representations for diffusion-based medical image super-resolution. **[[Code](https://github.com/sebasmos/latent-sr)]**
-- 2025–Present: Creator, [AutoResearch Dojo](https://github.com/sebasmos/autoresearch-dojo) — automated research workflow tools. **[[Code](https://github.com/sebasmos/autoresearch-dojo)]**
+- 2026: Workshop & Scientific Content Lead, [DubLINK AI in Healthcare LLM-athon](https://dublin.mitcriticaldata.com/) — MIT Critical Data, PLOS Digital Health, and MedWrite.ai. Workday Dublin, September 19, 2026.
+- 2024–Present: Guest Editor & Reviewer, [PLOS Digital Health](https://journals.plos.org/digitalhealth/).
 - 2023-2026: Google-funded project lead on quantum-aware vector embeddings for ML image classification, supported by a GCP Research Grant. **[[Code](https://github.com/sebasmos/QuantumVE)]**
 - 2024: Co-Lead, Quantum-Based Initiative for Classification and Optimization. **[[Qubico](https://qubico-hack.github.io/)]**
-- 2024: (Book) Machine Learning for Drifts and Shifts.
 - 2020–Present: NASA SpaceApps Leader at University of Cauca and AESS-Unicauca, Colombia. **[[Website](https://github.com/orgs/NASA-SpaceApps/repositories)]**
-- 2020–Present: Open-source Research Data Scientist, MIT Critical Data Mentor. PI: Leo Celi. **[[Website](https://criticaldata.mit.edu)]**
 - 2021–Present: Advisory Board Member, Ex-President, Founder of AESS Unicauca, University of Cauca. **[[Website](https://fiet.unicauca.edu.co/aess/)]**
 - 2020: Satellite Extractor: Dockerized API for downloading satellite imagery, developed with MIT Critical Data Colombia, sponsored by SentinelHub. **[[Code](https://github.com/sebasmos/satellite.extractor)]** **[[Datasets](https://huggingface.co/MITCriticalData)]** **[[Tutorials](https://github.com/sebasmos/NASASpaceApps_training)]**
-- 2020: Computer Vision Researcher (Open-source): Smart indoor positioning system for the visually impaired.
 - 2020: IEEE Human Sights: Mechanical ventilator project, sponsored by IEEE Humanitarian Sights. **[[Website](https://sebasmos.github.io/NASA-SpaceApps_Pneuma/)]** **[[Code](https://github.com/sebasmos/NASA-SpaceApps_Pneuma)]** **[[Mobile App](https://github.com/sebasmos/PneumApp)]**
 - 2020: COVID Mutations Risk Dashboard. **[[Website](https://mitcriticaldata-colombia.github.io/Mu_COV19_NASA/#)]** **[[Code](https://github.com/sebasmos/Mu_COV19_NASA/tree/main)]**
 - 2019: Telecommunications Engineer and Team Lead for satellite communications system in UAM challenge.
