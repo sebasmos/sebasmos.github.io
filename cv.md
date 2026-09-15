@@ -97,7 +97,13 @@ August 2026
 
 #### 2026
 
-* **S. A. Cajas Ordóñez**, A. Munnangi, A. Marzullo, F. Ocampo Osorio, Q. Bui, M. Lange, M. Patel, et al., and L. A. Celi. "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems." arXiv preprint arXiv:2608.03744, 2026.
+* **S. A. Cajas Ordóñez**, M. Lange, Q. Bui, A. P. Li, F. Ocampo Osorio, R. Al Attrach, K. R. Palakala, S. Kapadia, Z. Laouabdia Sellami, X. Zhang, A. Zhang, and L. A. Celi. "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs." arXiv preprint arXiv:2609.15635, 2026.
+  **\[[Paper](https://arxiv.org/abs/2609.15635)]**
+
+* F. Ocampo Osorio, **S. A. Cajas Ordóñez**, M. Lange, R. Al Attrach, S. Kapadia, Z. Laouabdia Sellami, A. A. Talio, and L. A. Celi. "Towards a Deterministic Math Solver for Clinical Language Models." arXiv preprint arXiv:2609.10728, 2026.
+  **\[[Paper](https://arxiv.org/abs/2609.10728)]**
+
+* **S. A. Cajas Ordóñez**, A. Munnangi, A. Marzullo, F. Ocampo Osorio, Q. Bui, M. Lange, M. Patel, et al., and L. A. Celi. "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems." *MICCAI*, 2026.
   **\[[Paper](https://arxiv.org/abs/2608.03744)]**
 
 * Q. Bui, R. Gorijavolu, D. Proios, et al., **S. A. Cajas Ordóñez**, and L. A. Celi. "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI." arXiv preprint arXiv:2608.01462, 2026.
