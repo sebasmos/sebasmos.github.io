@@ -109,6 +109,9 @@ August 2026
 * Q. Bui, R. Gorijavolu, D. Proios, et al., **S. A. Cajas Ordóñez**, and L. A. Celi. "Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI." arXiv preprint arXiv:2608.01462, 2026.
   **\[[Paper](https://arxiv.org/abs/2608.01462)]**
 
+* A. Q. Xiang, T. Tohyama, et al., **S. A. Cajas Ordóñez**, et al., and L. A. Celi. "Distributed Open Justice Oversight (DOJO): A Community-Driven, Modality-Agnostic Platform for Adversarial Evaluation of Health AI." SSRN preprint, 2026.
+  **\[[Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6676818)]**
+
 * **S. A. Cajas Ordóñez**, F. Ocampo Osorio, D. E. Koh, R. Al Attrach, A. Marzullo, A. Guerra-Adames, J. A. Andrade, S. T. Goh, C.-Y. Chen, R. Gorijavolu, X. Yang, N. D. Hebdon, and L. A. Celi. "Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings." arXiv preprint arXiv:2604.24597, 2026.
   **\[[Paper](https://arxiv.org/abs/2604.24597)]**
 
@@ -198,7 +201,8 @@ August 2026
 * **S. A. Cajas Ordóñez**, P. Astaiza, D. S. Garcia-Chicangana, C. Segura, and D. M. López. "ECG Arrhythmia Classification Using Non-Linear Features and Convolutional Neural Networks." *Computing in Cardiology*, 1–4, 2021.
   **\[[Paper](https://ieeexplore.ieee.org/document/9344175)]** **\[[Code](https://github.com/sebasmos/CardioLux)]**
 
-* J. S. Osorio-Valencia, D. Restrepo, **S. A. Cajas Ordóñez**, D. Moukheiber, et al. "Towards the Implementation of Eco-epidemiological Models for Dengue in Colombia Using Machine Learning and Satellite Images: Policy Advocacy and Open Data Repositories." *Biomédica: Revista del Instituto Nacional de Salud*, 41, 2021.
+* J. S. Osorio-Valencia, D. Restrepo, **S. A. Cajas Ordóñez**, D. Moukheiber, et al. "Towards the Implementation of Eco-epidemiological Models for Dengue in Colombia Using Machine Learning and Satellite Images: Policy Advocacy and Open Data Repositories." *Biomédica: Revista del Instituto Nacional de Salud*, 41(Supl.3), Memorias del XVII Encuentro Científico, 2021.
+  **\[[Paper](https://revistabiomedica.org/index.php/biomedica/article/view/6410)]**
 
 #### 2020
 
