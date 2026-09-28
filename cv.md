@@ -12,19 +12,23 @@ sebasmos [ad] mit.edu, scajasordonez [ad] gmail.com
 {:.cv-info}
 
 **Curriculum Vitae**  
-August 2026
+September 2026
 <hr />
 
 ### WORK EXPERIENCE
 
 - *01/2026 - Present*. **Senior AI/ML Software Engineer** at [Workday](https://www.workday.com/), Dublin, Ireland. Building and scaling human-AI systems for the Growth Team, combining LLM orchestration with production-grade software engineering.
 
-- *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data under [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) (PI), a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
+- *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data under [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) (PI), a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in LLM evaluation and safety, world models (JEPA), generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
+  - First author of [Agents Catching Agents](https://arxiv.org/abs/2608.03744) (*MICCAI* 2026): reward hacking and benchmark gaming in clinical multi-agent LLM systems, caught by a referee overseer that re-queries models privately; led with a 15+ person team.
+  - Co-author of [Towards a Deterministic Math Solver for Clinical Language Models](https://arxiv.org/abs/2609.10728), accepted at **NeurIPS 2026**.
+  - Project lead on the **Anthropic AI for Science Award** (first Claude Science cohort), *Discovering How Clinical AI Fails*.
+  - Lead a 20+ person working group on JEPA and world models for medicine.
   - Built and sustained the MIT Critical Data community across 20+ countries, spanning the Americas, Europe, Africa, and Asia.
   - Lead research programs across three continents, designing human-AI systems and AI agents for global health.
   - Driven 20+ open-source projects spanning clinical NLP, satellite-based disease surveillance, privacy-preserving de-identification, and multi-modal learning for low-resource settings.
   - Creator of [BODHI](https://criticaldata.github.io/bodhi/), an engineering framework for curiosity-driven AI in clinical decision support, achieving 97.3% rate of appropriate clarifying questions vs 7.8% baseline.
-  - Work published in *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]**
+  - Work published in *NeurIPS*, *MICCAI*, *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]**
 
 - *2024 - 12/2025*. **Senior Data Scientist** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
   - Architected LLM pipelines (LLaMA, DeepSeek, Mistral) for enterprise document classification and summarization, reducing manual processing time by over 60%.
@@ -97,11 +101,11 @@ August 2026
 
 #### 2026
 
+* F. Ocampo Osorio, **S. A. Cajas Ordóñez**, M. Lange, R. Al Attrach, S. Kapadia, Z. Laouabdia Sellami, A. A. Talio, and L. A. Celi. "Towards a Deterministic Math Solver for Clinical Language Models." **NeurIPS 2026**.
+  **\[[Paper](https://arxiv.org/abs/2609.10728)]**
+
 * **S. A. Cajas Ordóñez**, M. Lange, Q. Bui, A. P. Li, F. Ocampo Osorio, R. Al Attrach, K. R. Palakala, S. Kapadia, Z. Laouabdia Sellami, X. Zhang, A. Zhang, and L. A. Celi. "ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs." arXiv preprint arXiv:2609.15635, 2026.
   **\[[Paper](https://arxiv.org/abs/2609.15635)]**
-
-* F. Ocampo Osorio, **S. A. Cajas Ordóñez**, M. Lange, R. Al Attrach, S. Kapadia, Z. Laouabdia Sellami, A. A. Talio, and L. A. Celi. "Towards a Deterministic Math Solver for Clinical Language Models." arXiv preprint arXiv:2609.10728, 2026.
-  **\[[Paper](https://arxiv.org/abs/2609.10728)]**
 
 * **S. A. Cajas Ordóñez**, A. Munnangi, A. Marzullo, F. Ocampo Osorio, Q. Bui, M. Lange, M. Patel, et al., and L. A. Celi. "Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems." *MICCAI*, 2026.
   **\[[Paper](https://arxiv.org/abs/2608.03744)]**
