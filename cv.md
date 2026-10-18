@@ -17,9 +17,9 @@ September 2026
 
 ### WORK EXPERIENCE
 
-- *01/2026 - Present*. **Senior AI/ML Software Engineer** at [Workday](https://www.workday.com/), Dublin, Ireland. Building and scaling human-AI systems for the Growth Team, combining LLM orchestration with production-grade software engineering.
+- *2026 - Present*. **Senior Software Engineer (Machine Learning/AI)** at [Workday](https://www.workday.com/), Dublin, Ireland. Machine learning and AI engineering: evaluation of LLM-based systems, data pipelines and production ML systems.
 
-- *01/2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data under [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) (PI), a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in LLM evaluation and safety, world models (JEPA), generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
+- *2020 - Present*. **AI Researcher** at [Massachusetts Institute of Technology (MIT)](https://criticaldata.mit.edu). Researcher at MIT Critical Data under [Dr. Leo Celi](https://imes.mit.edu/people/celi-leo) (PI), a grassroots global consortium led by the Laboratory for Computational Physiology at the MIT Institute for Medical Engineering and Science. Contributing to global projects in LLM evaluation and safety, world models (JEPA), generative AI, quantum machine learning, and Human-AI systems. Key contributions include:
   - First author of [Agents Catching Agents](https://arxiv.org/abs/2608.03744) (*MICCAI* 2026): reward hacking and benchmark gaming in clinical multi-agent LLM systems, caught by a referee overseer that re-queries models privately; led with a 15+ person team.
   - Co-author of [Towards a Deterministic Math Solver for Clinical Language Models](https://arxiv.org/abs/2609.10728), accepted at **NeurIPS 2026**.
   - Project lead on the **Anthropic AI for Science Award** (first Claude Science cohort), *Discovering How Clinical AI Fails*.
@@ -27,38 +27,43 @@ September 2026
   - Built and sustained the MIT Critical Data community across 20+ countries, spanning the Americas, Europe, Africa, and Asia.
   - Lead research programs across three continents, designing human-AI systems and AI agents for global health.
   - Driven 20+ open-source projects spanning clinical NLP, satellite-based disease surveillance, privacy-preserving de-identification, and multi-modal learning for low-resource settings.
-  - Creator of [BODHI](https://criticaldata.github.io/bodhi/), an engineering framework for curiosity-driven AI in clinical decision support, achieving 97.3% rate of appropriate clarifying questions vs 7.8% baseline.
+  - Lead of [BODHI](https://criticaldata.github.io/bodhi/), a group focused on teaching machines to doubt; its framework for curiosity-driven AI in clinical decision support reaches a 97.3% rate of appropriate clarifying questions vs 7.8% baseline. Featured in [MIT News](https://news.mit.edu/2026/creating-humble-ai-0324).
+  - Co-lead of [DOJO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6676818), a community platform for adversarial evaluation of health AI.
   - Work published in *NeurIPS*, *MICCAI*, *The Lancet*, *Nature Scientific Data*, *PLOS Digital Health*, *BMJ Health & Care Informatics*, and *IEEE Access*. **[[MIT Critical Data](https://criticaldata.mit.edu)]**
 
-- *2024 - 12/2025*. **Senior Data Scientist** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Co-creator of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
+- *2024 - 2025*. **Senior Data Scientist** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Core team member of [ICOS](https://ceadar.ie/projects/eu-projects/icos-project/), an EU-funded ecosystem for Edge AI. Key contributions include:
+  - Designed and deployed multimodal, online and federated learning systems for edge AI across 8 EU partner organizations, with production APIs and MLOps on Docker, Kubernetes and SLURM/Singularity.
+  - Designed and administered CeADAR's HPC environment (Singularity and Kubernetes clusters) for the ICOS and MANOLO EU projects.
   - Architected LLM pipelines (LLaMA, DeepSeek, Mistral) for enterprise document classification and summarization, reducing manual processing time by over 60%.
-  - Designed and deployed multimodal, online, and federated learning systems for edge AI at continental scale across 8 EU partner organizations.
-  - Delivered production AI APIs and MLOps workflows on HPC infrastructure using Docker, Kubernetes, and SLURM/Singularity.
+  - Built online and streaming models forecasting CPU utilization across edge and cloud nodes ([AML4CPU](https://github.com/sebasmos/AML4CPU), DELTA at KDD 2024) and a mixture-of-experts approach to concept drift ([DriftMoE](https://link.springer.com/chapter/10.1007/978-3-032-19102-1_12)).
   - Published 6 papers and co-authored 1 EU architecture white paper during this period.
 
-- *09/2022 - 2024*. **AI Scientist II** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Key contributions include:
-  - Built and validated ML solutions spanning federated learning, reinforcement learning, and computer vision for EU innovation projects.
-  - Owned end-to-end delivery of data pipelines, model training, and API integration for the ICOS platform, improving testing and deployment workflows.
+- *2022 - 2024*. **AI Scientist II** at [CeADAR - Ireland's National Centre for Applied AI](https://ceadar.ie/), University College Dublin. Key contributions include:
+  - Applied ML research for national and EU projects in the Innovation and Development Group: incremental learning, reinforcement learning, NLP and computer vision.
+  - Part of the AI team building the intelligence layer of [ICOS](https://www.icos-project.eu/), "Towards a functional continuum operating system" (Horizon Europe grant [101070177](https://cordis.europa.eu/project/id/101070177)).
+  - Owned data pipelines, model training and API integration for the ICOS platform, and built, tested, deployed and maintained ML models and APIs.
 
-- *01/2022 - 01/2024*. **Fellow in Computer Science** at [Harvard University](https://seas.harvard.edu). Key contributions include:
+- *2022 - 2024*. **Fellow in Computer Science** at [Harvard University](https://seas.harvard.edu). Key contributions include:
   - Led development of computer vision and deep learning algorithms for single-cell imaging (CyCIF) using high-dimensional microscopy in the [Visual Computing Group](https://vcg.seas.harvard.edu) and Harvard Medical School's Lab of Systems Pharmacology.
   - Worked on instance segmentation, unsupervised learning, image translation models, and unbiased pixel-level feature extraction for analyzing lateral spillover in segmented tissue images.
   - Supervised by [Hanspeter Pfister](https://scholar.google.com/citations?user=VWX-GMAAAAAJ&hl=en) and [Siyu Huang](https://scholar.google.com/citations?user=hQN7Zn0AAAAJ&hl=zh-CN) at the *Harvard John A. Paulson School of Engineering and Applied Sciences*.
 
-- *01/2022 - 08/2022*. **Machine Learning Intern** at [EcoVadis](https://ecovadis.com/), Paris, France. Key contributions include:
+- *2022*. **Machine Learning Intern** at [EcoVadis](https://ecovadis.com/), Paris, France. Key contributions include:
   - Developed a CLIP-based attribution strategy for logo identification and verification in production documents.
   - Combined YOLO and transformers for multi-modal logo detection; built a self-supervised annotation pipeline curating 20,000+ images.
   - Supervised by [Sophia Katrenko](https://scholar.google.com/citations?user=t1H5sCwAAAAJ&hl=nl).
 
-- *05/2020 - 10/2020*. **ML/CV Engineer** at [AI India Innovation Centre](https://aiindia.ai/), Valencia, Spain. Delivered an end-to-end land-use classification system (dataset creation, model training, evaluation) and optimized geospatial workflows with cloud compute and GPU tooling for large-scale satellite image analysis.
+- *2020*. **ML/CV Engineer** at [AI India Innovation Centre](https://aiindia.ai/), Valencia, Spain. Delivered an end-to-end land-use classification system (dataset creation, model training, evaluation) and optimized geospatial workflows with cloud compute and GPU tooling for large-scale satellite image analysis.
+
+- *2020*. **Solutions Engineer** at Codescrum, London, UK. Solutions engineering for client projects: translated customer requirements into system designs (APIs, data models, third-party integrations), built proofs of concept and took them to production with the engineering team, handling deployment and handover to each client's environment.
 
 - *2019*. **Teacher** at Camp Poyntelle, USA. Educated 400+ students in astronomy and physics through lectures and hands-on observing sessions.
 
-- *2018*. **CS Teacher** at Social Hackers Academy, Athens. Built web and mobile applications as part of a digital literacy curriculum for refugees.
+- *2018*. **CS Teacher** at Social Hackers Academy, Athens. Taught full-stack web and mobile development in a digital literacy programme for refugees, guiding students from requirements to working applications.
 
-- *2018*. **Full-Stack Developer** at Althaia Psychiatric Centre, Athens. Designed and developed the institution's official website.
+- *2018*. **Full-Stack Developer** at Althaia Psychiatric Centre, Athens. Built the centre's official website end to end: responsive front end, back end and database, and deployment to production hosting.
 
-- *01/2016 - 01/2019*. **IT Technician** at University of Cauca, Colombia. Managed IT infrastructure and network systems across faculties; implemented security protocols to ensure reliability and institutional compliance.
+- *2016 - 2019*. **IT Technician** at University of Cauca, Colombia. Managed IT infrastructure and network systems across faculties; implemented security protocols to ensure reliability and institutional compliance.
 
 ### EDUCATION
 
